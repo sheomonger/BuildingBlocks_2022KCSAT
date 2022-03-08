@@ -201,6 +201,8 @@ $x=-1$ 또는 $x=2$
 
 [IMG]
 
+[[d0009]]
+
 방정식 ㉠이 서로 다른 세 실근을 가지려면 함수 $y=f(x)$ 의 그래프와 직선 $y=-k$ 가 서로 다른 세 점에서 만나야 하므로 $-20<  -k<  7$
 
 즉, $-7<  k<  20$ 이다.
@@ -221,6 +223,8 @@ $x=-1$ 또는 $x=2$
 
 <<<S>>>출제의도 : 삼각함수의 정의와 관계를 이용하여 삼각함수의 값을 구할 수 있는가?
 
+[[c0006]]
+
 $\tan \theta-\dfrac{6}{\tan \theta}=1$ 이므로
 
 양변에 $\tan \theta$ 를 곱하면
@@ -228,12 +232,18 @@ $\tan ^{2} \theta-6=\tan \theta$
 
 $\tan ^{2} \theta-\tan \theta-6=0$
 
+[[c0007]]
+
 $(\tan \theta+2)(\tan \theta-3)=0$
+
+[[c0008]]
 
 $\tan \theta=-2$ 또는 $\tan \theta=3$
 
 이때, $\pi<  \theta<  \dfrac{3}{2} \pi$ 이므로
 $\tan \theta=3$
+
+[[c0009]]
 
 이때,
 $\dfrac{\sin \theta}{\cos \theta}=3$,
@@ -262,6 +272,8 @@ $\sin \theta=\dfrac{3}{\sqrt{10}}$ 또는 $\sin \theta=-\dfrac{3}{\sqrt{10}}$
 
 $\sin \theta=-\dfrac{3}{\sqrt{10}} \quad \cdots \cdot$ ㉡
 
+[[c0010]]
+
 따라서, ㉠과 ㉡에서 $\sin \theta+\cos \theta$
 
 $=\left(-\dfrac{3}{\sqrt{10}}\right)+\left(-\dfrac{1}{\sqrt{10}}\right)$
@@ -285,6 +297,8 @@ $=-\dfrac{2 \sqrt{10}}{5}$
 
 <<<S>>>출제의도 : 정적분을 이용하여 곡선과 직선으로 둘러싸인 부분의 넓이를 구할 수 있는가?
 
+[[d0010]]
+
 $x^{2}-5 x=x$ 에서 $x(x-6)=0$
 
 $x=0$ 또는 $x=6$
@@ -292,6 +306,8 @@ $x=0$ 또는 $x=6$
 곡선 $y=x^{2}-5 x$ 와 직선 $y=x$ 가 만나는 점은 원점과 $(6,6)$ 이다.
 
 [IMG]
+
+[[0011]]
 
 곡선 $y=x^{2}-5 x$ 와 직선 $y=x$ 로 둘러싸인 부분의 넓이는
 
@@ -303,6 +319,8 @@ $=\left[3 x^{2}-\dfrac{1}{3} x^{3}\right]_{0}^{6}$
 
 $=36$
 
+[[d0012]]
+
 따라서 직선 $x=k$ 가 넓이를 이등분하므로
 
 $18 =\displaystyle\int_{0}^{k}\left\{x-\left(x^{2}-5 x\right)\right\} d x$
@@ -312,6 +330,8 @@ $=\displaystyle\int_{0}^{k}\left(6 x-x^{2}\right) d x$
 $=\left[3 x^{2}-\dfrac{1}{3} x^{3}\right]_{0}^{k}$
 
 $=3 k^{2}-\dfrac{1}{3} k^{3}$
+
+[[m0001]]
 
 정리하면 $k^{3}-9 k^{2}+54=0$
 
@@ -333,11 +353,15 @@ $(k-3)\left(k^{2}-6 k-18\right)=0$
 
 [IMG]
 
+[[c0011]]
+
 두 점 $\mathrm{P}, \mathrm{Q}$ 의 $x$ 좌표를 각각 $p, q(p<  q)$ 라 하면
 
 두 점 $\mathrm{P}, \mathrm{Q}$ 는 직선 $y=2 x+k$ 위의 점이므로
 
 $\mathrm{P}(p, 2 p+k), \mathrm{Q}(q, 2 q+k)$ 로 놓을 수 있다.
+
+[[c0012]]
 
 이때, $\overline{\mathrm{PQ}}=\sqrt{5}$,
 
@@ -349,6 +373,8 @@ $(q-p)^{2}=1$
 $q-p>0$ 이므로 $q-p=1$
 
 즉, $q=p+1$ 이다.
+
+[[c0013]]
 
 한편, 점 $\mathrm{P}$ 는 함수 $y=\left(\dfrac{2}{3}\right)^{x+3}+1$ 의 그래프 위의 점이므로
 
@@ -393,12 +419,14 @@ $$
 
 <<<S>>>출제의도 : 다항함수의 도함수와 접선의 방정식을 구할 수 있는가?
 
-점 $(0,0)$ 이 삼차함수 $y=f(x)$ 의 그래프 위의 점이므로 $f(0)=0$
+점 $(0,0)$ 이 삼차함수 $y=f(x)$ 의 그래프 위의 점이므로
+
+$f(0)=0 \cdots \cdots $㉠
 
 이때, 점 $(0,0)$ 에서의 접선의 방정식은
 $y=f^{\prime}(0)(x-0)+0$
 
-$y=f^{\prime}(0) x$
+$y=f^{\prime}(0) x \cdots \cdots $㉡
 
 또, 곡선 $y=x f(x)$ 위에 점 $(1,2)$ 가 있으므로
 
@@ -413,7 +441,7 @@ $y=\left\{f(1)+f^{\prime}(1)\right\}(x-1)+2$
 
 $=\left\{f^{\prime}(1)+2\right\}(x-1)+2$
 
-$=\left\{f^{\prime}(1)+2\right\} x-f^{\prime}(1) \ldots \cdots$ ㉣
+$=\left\{f^{\prime}(1)+2\right\} x-f^{\prime}(1) \cdots \cdots$ ㉣
 
 이때, $f(x)=a x^{3}+b x^{2}+c x+d$ 라 하면
 
