@@ -104,7 +104,7 @@ $x \rightarrow-1-$일 때, $f(x) \rightarrow 3$ 이므로 $\displaystyle\lim _{x
 
 또, $x \rightarrow 2$ 일 때, $f(x) \rightarrow 1$ 이므로 $\displaystyle\lim _{x \rightarrow 2} f(x)=1$
 
-[[m0007]]
+[[d0006]]
 
 따라서,
 $\displaystyle\lim _{x \rightarrow-1-} f(x)+\displaystyle\lim _{x \rightarrow 2} f(x)=3+1=4$
@@ -426,59 +426,57 @@ $$
 
 <<<S>>>출제의도 : 다항함수의 도함수와 접선의 방정식을 구할 수 있는가?
 
-점 $(0,0)$ 이 삼차함수 $y=f(x)$ 의 그래프 위의 점이므로
+[[c0016]]
 
-$f(0)=0 \cdots \cdots $㉠
+$f(x)=a x^{3}+b x^{2}+c x+d$ 라 하자. 그러면  $f^{\prime}(x)=3 a x^{2}+2 b x+c$ 이다.
 
-이때, 점 $(0,0)$ 에서의 접선의 방정식은
-$y=f^{\prime}(0)(x-0)+0$
+[[c0038]]
 
-$y=f^{\prime}(0) x \cdots \cdots $㉡
+점 $(0,0)$는 삼차함수 $y=f(x)$ 의 그래프 위의 점이고,
 
-또, 곡선 $y=x f(x)$ 위에 점 $(1,2)$ 가 있으므로
+점 $(1,2)$는 $y=x f(x)$ 의 그래프 위의 점이므로 
 
-$1 \times f(1)=2$
+$f(0)=0$에서  $d=0 \cdots \cdots $㉠
 
-$f(1)=2 \quad \cdots \cdots$ ㉢
+$1 \times f(1)=2$에서  $a+b+c+d=2$ $\cdots \cdots$ ㉡
 
-$y=x f(x)$ 에서 $y^{\prime}=f(x)+x f^{\prime}(x)$ 이므로
+[[c0017]]
 
-$(1,2)$ 에서의 접선의 방정식은
-$y=\left\{f(1)+f^{\prime}(1)\right\}(x-1)+2$
+한편, 점 $(0,0)$ 에서 $y=f(x)$의 접선의 방정식은
 
-$=\left\{f^{\prime}(1)+2\right\}(x-1)+2$
+$y=f^{\prime}(0) x$이고,
 
-$=\left\{f^{\prime}(1)+2\right\} x-f^{\prime}(1) \cdots \cdots$ ㉣
+$y=x f(x)$의 도함수는 $y^{\prime}=f(x)+x f^{\prime}(x)$이므로
 
-이때, $f(x)=a x^{3}+b x^{2}+c x+d$ 라 하면
+점 $(1,2)$에서 $y=x f(x)$의 접선의 방정식은
 
-㉠에서 $d=0$
+$y=\left\{f(1)+f^{\prime}(1)\right\}(x-1)+2$에서
 
-이때, $f(x)=a x^{3}+b x^{2}+c x$ 이므로
+$y=\left\{f^{\prime}(1)+2\right\} x-f^{\prime}(1) $ 이다.
 
-㉢에서 $a+b+c=2$ $\cdots \cdots$ ㉤
+[[c0018]]
 
-㉡과 ㉣에서 두 접선이 일치해야 하므로
+위의 두 접선이 일치하므로
 
-$f^{\prime}(0)=f^{\prime}(1)+2, f^{\prime}(1)=0$
+$f^{\prime}(0)=f^{\prime}(1)+2, f^{\prime}(1)=0$이다.
 
-따라서 $f^{\prime}(0)=2, f^{\prime}(1)=0$
+따라서 $f^{\prime}(0)=2, f^{\prime}(1)=0$에서
 
-이때, $f^{\prime}(x)=3 a x^{2}+2 b x+c$ 이므로
+$c=2$  $\cdots \cdots$ ㉢
 
-$f^{\prime}(0)=2$ 에서 $c=2$
+$3 a+2 b+c=0$  $\cdots \cdots$ ㉣
 
-이때, $f^{\prime}(x)=3 a x^{2}+2 b x+2$ 이므로
+[[m0003]]
 
-$f^{\prime}(1)=0$ 에서 $3 a+2 b+2=0$
+㉠, ㉡, ㉢, ㉣을 연립하여 $a,b,c,d$를 구하면
 
-㉤에서 $c=2$ 를 대입하면 $a+b=0$ 이므로
+$a=-2, b=2, c=2, d=0$이다.
 
-$b=-a$ 를 위 식에 대입하여 $a, b$ 를 구하면 $a=-2, b=2$ 이므로
+[[m0001]]
 
-$f(x)=-2 x^{3}+2 x^{2}+2 x$, $f^{\prime}(x)=-6 x^{2}+4 x+2$
+따라서 $f(x)=-2 x^{3}+2 x^{2}+2 x$이고, $f^{\prime}(x)=-6 x^{2}+4 x+2$이므로
 
-따라서 $f^{\prime}(2)=-14$
+$f^{\prime}(2)=-14$
 
 
 <<<P>>>10. 삼차함수 $f(x)$ 에 대하여 곡선 $y=f(x)$ 위의 점 $(0,0)$ 에서의 접선과 곡선 $y=x f(x)$ 위의 점 $(1,2)$ 에서의 접선이 일치할 때, $f^{\prime}(2)$ 의 값은? [4점]
