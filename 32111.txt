@@ -492,8 +492,12 @@ $f^{\prime}(2)=-14$
 
 <<<S>>>출제의도 : 삼각함수의 그래프의 성 질을 이용하여 조건을 만족하는 삼각형 의 넓이를 구할 수 있는가?
 
+[[c0019]]
+
 $\dfrac{\pi}{\dfrac{\pi}{a}}=a$ 이므로
 함수 $f(x)$ 의 주기는 $a$ 이다.
+
+[[c0020]]
 
 직선 $\mathrm{AB}$ 는 원점을 지나고 기울기가 $\sqrt{3}$
 인 직선이므로
@@ -518,6 +522,9 @@ $$
 &t=\dfrac{1}{\sqrt{3}}
 \end{aligned}
 $$
+
+[[c0021]]
+
 따라서 삼각형 $\mathrm{ABC}$ 의 넓이는
 $$
 \begin{aligned}
@@ -547,11 +554,17 @@ $$
 
 <<<S>>>출제의도 : 함수의 연속의 성질을 이용하여 함수를 구할 수 있는가?
 
+[[d0015]]
+
 $\{f(x)\}^{3}-\{f(x)\}^{2}-x^{2} f(x)+x^{2}=0$ 에서
 
 $\{f(x)-1\}\{f(x)+x\}\{f(x)-x\}=0$이므로
 
+[[d0016]]
+
 $f(x)=1$ 또는 $f(x)=-x$ 또는 $f(x)=x$
+
+[[d0017]]
 
 이때, $f(0)=1$ 또는 $f(0)=0$ 이다.
 
@@ -572,7 +585,11 @@ $f(x)=\begin{cases}|x| & (|x| \leq 1) \\ 1 & (|x|>1) \end{cases}$
 
 [IMG]
 
+[[d0018]]
+
 따라서 $f\left(-\dfrac{4}{3}\right)=1, f(0)=0, f\left(\dfrac{1}{2}\right)=\dfrac{1}{2}$ 이므로
+
+[d0019]]
 
 $f\left(-\dfrac{4}{3}\right)+f(0)+f\left(\dfrac{1}{2}\right)=1+0+\dfrac{1}{2}=\dfrac{3}{2}$
 
@@ -592,32 +609,41 @@ $$
 
 <<<S>>>출제의도 : 로그의 정의와 성질을 활용하여 식의 값을 구할 수 있는가?
 
+[[c0022]]
 
 두 점 $\left(a, \log _{2} a\right),\left(b, \log _{2} b\right)$ 를 지나는 직선의 방정식은
 
 $y=\dfrac{\log _{2} b-\log _{2} a}{b-a}(x-a)+\log _{2} a $
 
+[[c0023]]
+
 그러므로 이 직선의 $y$ 절편은
 
 $-\dfrac{a\left(\log _{2} b-\log _{2} a\right)}{b-a}+\log _{2} a \quad \cdots \cdots$ ㉠
+
+[[c0022]]
 
 두 점 $\left(a, \log _{4} a\right),\left(b, \log _{4} b\right)$ 를 지나는 직선의 방정식은
 
 $y=\dfrac{\log _{4} b-\log _{4} a}{b-a}(x-a)+\log _{4} a $
 
+[[c0023]]
+
 그러므로 이 직선의 $y$ 절편은
 
 $-\dfrac{a\left(\log _{4} b-\log _{4} a\right)}{b-a}+\log _{4} a$
 
-$=-\dfrac{1}{2} \times \dfrac{a\left(\log _{2} b-\log _{2} a\right)}{b-a}+\dfrac{1}{2} \log _{2} a
-$
+$=-\dfrac{1}{2} \times \dfrac{a\left(\log _{2} b-\log _{2} a\right)}{b-a}+\dfrac{1}{2} \log _{2} a$
+
+[[c0024]]
 
 ㉠과 ㉡이 같으므로
 
 $-\dfrac{a\left(\log _{2} b-\log _{2} a\right)}{b-a}+\log _{2} a$
 
-$=-\dfrac{1}{2} \times \dfrac{a\left(\log _{2} b-\log _{2} a\right)}{b-a}+\dfrac{1}{2} \log _{2} a
-$
+$=-\dfrac{1}{2} \times \dfrac{a\left(\log _{2} b-\log _{2} a\right)}{b-a}+\dfrac{1}{2} \log _{2} a$
+
+[[c0025]]
 
 이 식을 정리하면
 
@@ -632,6 +658,8 @@ $\log _{2} a^{b-a}=\log _{2}\left(\dfrac{b}{a}\right)^{a}$
 $a^{b-a}=\dfrac{b^{a}}{a^{a}}$
 
 $a^{b}=b^{a} \quad \cdots \cdots$ ㉢
+
+[[c0026]]
 
 한편, $f(x)=a^{b x}+b^{a x}$ 이고
 $f(1)=40$ 이므로
@@ -662,17 +690,31 @@ $\begin{aligned} f(2) &=a^{2 b}+b^{2 a} \\ &=\left(a^{b}\right)^{2}+\left(b^{a}\
 
 <<<S>>>출제의도 : 수직선 위를 움직이는 점의 운동에 대하여 주어진 명제의 참, 거짓을 판별할 수 있는가?
 
+[[d0020]]
+
 $x(0)=0, x(1)=0$ 이므로 점 $\mathrm{P}$ 의 위치는 $t=0$ 일 때 수직선의 원점이고, $t=1$ 일 때도 수직선의 원점이다.
 
 또, $\displaystyle\int_{0}^{1}|v(t)| d t=2$ 이므로 점 $\mathrm{P}$ 가 $t=0$ 에서 $t=1$ 까지 움직인 거리 가 $2$ 이다.
 
-ㄱ. 점 $\mathrm{P}$ 의 $t=0$ 에서 $t=1$ 까지 위치의 변화량이 $0$ 이므로
 
+ㄱ. 
+
+[[d0021]]
+
+점 $\mathrm{P}$ 의 $t=0$ 에서 $t=1$ 까지 위치의 변화량이 $0$ 이므로
 $\displaystyle\int_{0}^{1} v(t) d t=0$ (참)
 
-ㄴ․ $\left|x\left(t_{1}\right)\right|>1$ 이면 점 $\mathrm{P}$ 와 원점 사이의 거리가 $1$ 보다 큰 시각 $t_{1}$ 이 존재하므로 점 $\mathrm{P}$ 가 $t=0$ 에서 $t=1$ 까지 움직인 거리가 $2$ 보다 크다. (거짓)
+ㄴ․
 
-ㄷ. $0 \leq t \leq 1$ 인 모든 시각 $t$ 에서 점 $\mathrm{P}$ 와 원점 사이의 거리가 $1$보다 작고, 점 $\mathrm{P}$ 가 $t=0$ 에서 $t=1$ 까지 움직인 거리가 $2$ 이므로 점 $\mathrm{P}$ 는 $0<  t<  1$ 에서 적어도 한 번 원점을 지나간다. (참)
+[[d0022]]
+
+$\left|x\left(t_{1}\right)\right|>1$ 이면 점 $\mathrm{P}$ 와 원점 사이의 거리가 $1$ 보다 큰 시각 $t_{1}$ 이 존재하므로 점 $\mathrm{P}$ 가 $t=0$ 에서 $t=1$ 까지 움직인 거리가 $2$ 보다 크다. (거짓)
+
+ㄷ.
+
+[[d0023]]
+
+$0 \leq t \leq 1$ 인 모든 시각 $t$ 에서 점 $\mathrm{P}$ 와 원점 사이의 거리가 $1$보다 작고, 점 $\mathrm{P}$ 가 $t=0$ 에서 $t=1$ 까지 움직인 거리가 $2$ 이므로 점 $\mathrm{P}$ 는 $0<  t<  1$ 에서 적어도 한 번 원점을 지나간다. (참)
 
 이상에서 옳은 것은 ㄱ, ㄷ이다.
 
@@ -702,16 +744,22 @@ $$
 
 [IMG]
 
+[[c0027]]
+
 $\angle \mathrm{CO}_{2} \mathrm{O}_{1}+\angle \mathrm{O}_{1} \mathrm{O}_{2} \mathrm{D}=\pi$ 이므로
 $\theta_{3}=\dfrac{\pi}{2}+\dfrac{\theta_{2}}{2}$ 이고
 
 $\theta_{3}=\theta_{1}+\theta_{2}$ 에서 $2 \theta_{1}+\theta_{2}=\pi$ 이므로
 
-$\angle \mathrm{CO}_{1} \mathrm{~B}=\theta_{1}$ 이다.
+$\angle \mathrm{CO}_{1} \mathrm{B}=\theta_{1}$ 이다.
 
-이때, $\angle \mathrm{O}_{2} \mathrm{O}_{1} \mathrm{~B}=\theta_{1}+\theta_{2}=\theta_{3}$ 이므로
+[[c0028]]
 
-삼각헝 $\mathrm{O}_{1} \mathrm{O}_{2} \mathrm{~B}$ 와 삼각헝 $\mathrm{O}_{2} \mathrm{O}_{1} \mathrm{D}$ 는 합동이다.
+이때, $\angle \mathrm{O}_{2} \mathrm{O}_{1} \mathrm{B}=\theta_{1}+\theta_{2}=\theta_{3}$ 이므로
+
+삼각헝 $\mathrm{O}_{1} \mathrm{O}_{2} \mathrm{B}$ 와 삼각헝 $\mathrm{O}_{2} \mathrm{O}_{1} \mathrm{D}$ 는 합동이다.
+
+[[c0029]]
 
 $\overline{\mathrm{AB}}=k$ 라 할 때,
 
@@ -719,9 +767,13 @@ $\overline{\mathrm{BO}_{2}}=\overline{\mathrm{O}_{1} \mathrm{D}}=2 \sqrt{2} k$ �
 
 $\overline{\mathrm{AO}_{2}}=\sqrt{k^{2}}+(2 \sqrt{2} k)^{2}=3 k$ 이고,
 
+[[c0030]]
+
 $\angle \mathrm{BO}_{2} \mathrm{~A}=\dfrac{\theta_{1}}{2}$ 이므로
 
 $\cos \dfrac{\theta_{1}}{2}=\dfrac{2 \sqrt{2} k}{3 k}=\dfrac{2 \sqrt{2}}{3}$ 이다.
+
+[[c0031]]
 
 삼각형 $\mathrm{O}_{2} \mathrm{BC}$ 에서
 
@@ -790,7 +842,13 @@ $\overline{\mathrm{AB}}: \overline{\mathrm{CD}}=k:\left(\dfrac{\fbox { (가) }}{
 
 <<<S>>>출제의도 : 로그의 성질을 이용하여 식의 값을 구할 수 있는가?
 
-$\log _{2} 120-\dfrac{1}{\log _{15} 2}$ $=\log _{2} 120-\log _{2} 15$
+[[c0032]]
+
+$\log _{2} 120-\dfrac{1}{\log _{15} 2}$
+
+$=\log _{2} 120-\log _{2} 15$
+
+[[c0033]]
 
 $=\log _{2} \dfrac{120}{15}$
 
@@ -808,13 +866,19 @@ $=3$
 
 <<<S>>>출제의도 : 도함수가 주어진 함수의 함숫값을 구할 수 있는가?
 
+[[d0024]]
+
 $f(x) =\displaystyle\int f^{\prime}(x) d x$
 
 $=\displaystyle\int\left(3 x^{2}+2 x\right) d x$
 
 $=x^{3}+x^{2}+C$ (단, $C$는 적분상수)
 
+[[d0025]]
+
 이때, $f(0)=2$ 이므로 $C=2$
+
+[[d0026]]
 
 따라서 $f(x)=x^{3}+x^{2}+2$ 이므로 $f(1)=1+1+2=4$
 
@@ -825,11 +889,15 @@ $=x^{3}+x^{2}+C$ (단, $C$는 적분상수)
 
 <<<S>>>출제의도 : 합의 기호 $\displaystyle\sum$ 의 성질을 이용하여 수열의 항의 값을 구할 수 있는가?
 
+[[c0034]]
+
 $\displaystyle\sum_{k=1}^{10} a_{k}-\displaystyle\sum_{k=1}^{7} \dfrac{a_{k}}{2}=56 \quad \cdots \cdots $㉠
 
 $\displaystyle\sum_{k=1}^{10} 2 a_{k}-\displaystyle\sum_{k=1}^{8} a_{k}=100$ 에서
 
 $\displaystyle\sum_{k=1}^{10} a_{k}-\displaystyle\sum_{k=1}^{8} \dfrac{a_{k}}{2}=50 \quad \cdots \cdots $㉡
+
+[[c0035]]
 
 ㉠ $-$㉡을 하면  $\dfrac{a_{8}}{2}=6$
 
@@ -853,7 +921,11 @@ $f^{\prime}(x)=3 x^{2}+2 a x-\left(a^{2}-8 a\right)$
 
 이때, 함수 $f(x)$ 가 실수 전체의 집합에 서 증가하려면
 
+[[d0027]]
+
 $f^{\prime}(x) \geq 0$
+
+[[d0028]]
 
 이때, 이차방정식 $f^{\prime}(x)=0$ 의 판별식을 $D$ 라 하면 $\dfrac{D}{4} \leq 0$ 이어야 하므로
 
@@ -865,6 +937,8 @@ $=4 a(a-6) \leq 0$
 
 그러므로 $0 \leq a \leq 6$
 
+[[d0029]]
+
 따라서, $a$ 의 최댓값은 $6$ 이다.
 
 
@@ -875,6 +949,8 @@ $=4 a(a-6) \leq 0$
 <<<A>>>$110$
 
 <<<S>>>출제의도 : 조건을 만족시키는 함수 $f(x)$ 에 대하여 정적분의 값을 구할 수 있는가?
+
+[d0031]]
 
 $f(x+1)-x f(x)=a x+b$에 $x=0$을 대입하면
 
@@ -888,16 +964,22 @@ $f(x+1) =x f(x)+a x+1$
 
 $=x^{2}+a x+1$
 
+[[d0032]]
+
 $x+1=t$ 로 치환하면
 
 $f(t)=(t-1)^{2}+a(t-1)+1$
 
 $=t^{2}+(a-2) t+2-a \cdots \cdots$ ㉠
 
+[[d0033]]
+
 $f^{\prime}(t)=2 t+(a-2)$ 이고, 닫힌구간 $[0,1]$ 에서 $f(x)=x$ 이고, 함수 $f(x)$ 가 실수 전체의 집합에서 미분가능한 함수이므로 $f^{\prime}(1)=1$ 이므로 $a=1$
 
 따라서 ㉠에서 $1 \leq x \leq 2$ 일 때
 $f(x)=x^{2}-x+1$ 이다.
+
+[[d0034]]
 
 $ \displaystyle\int_{1}^{2} f(x) d x =\displaystyle\int_{1}^{2}\left(x^{2}-x+1\right) d x$
 
@@ -921,6 +1003,8 @@ $60 \times \displaystyle\int_{1}^{2} f(x) d x$ 의 값을 구하시오. [4점]
 
 <<<S>>>출제의도 : 등비수열의 합을 이용하여 수열의 합을 구할 수 있는가?
 
+[[c0036]]
+
 조건 (가), (나)에서 수열 $\left\{\left|a_{n}\right|\right\}$ 은 첫째항이 2, 공비가 2인 등비수열이므로
 $\left|a_{n}\right|=2^{n}$
 
@@ -928,6 +1012,8 @@ $\left|a_{n}\right|=2^{n}$
 $\displaystyle\sum_{k=1}^{9}\left|a_{k}\right|=\displaystyle\sum_{k=1}^{9} 2^{k}=\dfrac{2\left(2^{9}-1\right)}{2-1}=2^{10}-2$,
 
 $\left|a_{10}\right|=2^{10}$
+
+[[c0037]]
 
 조건 (다)에서 $\displaystyle\sum_{k=1}^{10} a_{k}=-14$ 를 만족하기 위해서는
 $a_{1}=-2, a_{2}=-4$
