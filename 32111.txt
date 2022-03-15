@@ -1925,7 +1925,7 @@ $=\dfrac{1}{2} \times 1^{2} \times 4 \theta=2 \theta$,
 
 $=\dfrac{1}{2} \times 1^{2} \times \sin (\pi-4 \theta)=\dfrac{1}{2} \sin 4 \theta$
 
-삼각헝 $\mathrm{RAB}$ 에서 $\angle \mathrm{ARB}=\pi-3 \theta$ 이므로
+삼각형 $\mathrm{RAB}$ 에서 $\angle \mathrm{ARB}=\pi-3 \theta$ 이므로
 사인법칙에 의하여
 
 $\dfrac{2}{\sin (\pi-3 \theta)}=\dfrac{\overline{\mathrm{BR}}}{\sin \theta}$,
