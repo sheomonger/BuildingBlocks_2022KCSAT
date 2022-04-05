@@ -3,6 +3,8 @@
 
 <<<S>>>
 
+[[c1004]]
+
 $2^{\sqrt{3}}\times 2^{2-\sqrt{3}}$$=2^{\sqrt{3}+(2-\sqrt{3})}$$=2^{2}$$=4$
 
 <<<P>>>2022학년도 대학수학능력시험 6월 모의평가 시작
@@ -15,7 +17,11 @@ $2^{\sqrt{3}}\times 2^{2-\sqrt{3}}$의 값은? [2점]
 
 <<<S>>>
 
+[[d3010]]
+
 $f(x)$$=\displaystyle\int(3x^{2}-2x)dx$$=x^{3}-x^{2}+C$ ($C$는 적분상수)
+
+[[d3003]]
 
 $f(1)=1^{3}-1^{2}+C=1$에서 $C=1$
 
@@ -37,9 +43,15 @@ $f'(x)=3x^{2}-2x$, $f(1)=1$
 
 <<<S>>>
 
-$\tan\theta =\dfrac{12}{5}$이고 $\pi < \theta < \dfrac{3}{2}\pi$이므로 각 $\theta$가 나타내는 동경과 원점 $\mathrm{O}$를 중심으로 하는 어떤 원의 교점이 $\mathrm{P}(-5,\:-12)$이다.
+[[c2001]]
 
-따라서 원점 $\mathrm{O}$에 대하여 $\overline{\mathrm{OP}}=\sqrt{(-5)^{2}+(-12)^{2}}=13$이므로
+$\tan\theta =\dfrac{12}{5}$이고 $\pi < \theta < \dfrac{3}{2}\pi$이므로
+
+원점을 $\mathrm{O}$, $\mathrm{P}(-5,\:-12)$라 하면 동경 $\mathrm{OP}$가 나타내는 각이 $\theta$이다.
+
+[[c2002]]
+
+따라서 $\overline{\mathrm{OP}}=\sqrt{(-5)^{2}+(-12)^{2}}=13$이므로
 
 $\sin\theta +\cos\theta =-\dfrac{12}{13}-\dfrac{5}{13}= -\dfrac{17}{13}$
 
@@ -52,6 +64,8 @@ $\pi < \theta < \dfrac{3}{2}\pi$인 $\theta$에 대하여 $\tan\theta =\dfrac{12
 <<<A>>>①
 
 <<<S>>>
+
+[[d1004]]
 
 $\displaystyle\lim_{x\to 0-}f(x)= -2$
 
@@ -75,13 +89,15 @@ $\displaystyle\lim_{x\to 0-}f(x)+\displaystyle\lim_{x\to 2+}f(x)$의 값은? [3�
 
 <<<S>>>
 
+[[d2005]]
+
 $g(x)=(x^{2}+3)f(x)$에서
 
 $g'(x)= 2xf(x)+(x^{2}+3)f'(x)$
 
 따라서
 
-$g'(1)$$=2f(1)+4f'(1)$$= 2\times 2 + 4\times 1$$=8$
+$g'(1)$ $=2f(1)+4f'(1)$ $= 2\times 2 + 4\times 1$ $=8$
 
 <<<P>>>
 
@@ -97,7 +113,11 @@ $g(x)=(x^{2}+3)f(x)$
 
 <<<S>>>
 
+[[d3014]]
+
 곡선 $y=3x^{2}-x$와 직선 $y=5x$의 교점의 $x$좌표는 $3x^{2}-x=5x$에서 $x=0$ 또는 $x=2$
+
+[[d3015]]
 
 구간 $[0,\:2]$에서 직선 $y=5x$가 곡선 $y=3x^{2}-x$보다 위쪽에 있거나 만나므로 구하는 넓이는
 
@@ -121,11 +141,17 @@ $=4$
 
 <<<S>>>
 
+[[m0009]]
+
 $S_{3}-S_{2}=a_{3}$이므로 $a_{6}= 2a_{3}$
+
+[[c3003]]
 
 등차수열 $\left\{a_{n}\right\}$의 공차를 $d$라 하면 $2+5d=2(2+2d)$
 
 $2+5d=4+4d$에서 $d=2$
+
+[[c3007]]
 
 따라서 $a_{10}= 2+ 9\times 2 =20$이므로
 
@@ -145,7 +171,11 @@ $a_{6}= 2(S_{3}-S_{2})$
 
 <<<S>>>
 
-함수 $f(x)$가 $x=a$를 제외한 실수 전체의 집합에서 연속이므로 함수 $\{f(x)\}^{2}$이 $x=a$에서 연속이면 함수 $\{f(x)\}^{2}$은 실수 전체의 집합에서 연속이다.
+[[d1010]]
+
+함수 $f(x)$가 $x=a$를 제외한 실수 전체의 집합에서 연속이므로
+
+함수 $\{f(x)\}^{2}$이 $x=a$에서 연속이면 함수 $\{f(x)\}^{2}$은 실수 전체의 집합에서 연속이다.
 
 함수 $\{f(x)\}^{2}$이 $x=a$에서 연속이려면 
 
@@ -153,7 +183,12 @@ $\displaystyle\lim_{x\to a+}\{f(x)\}^{2}=\displaystyle\lim_{x\to a-}\{f(x)\}^{2}
 
 이어야 한다.
 
-이때,
+[[d1011]]
+
+$\{f(x)\}^{2}=\begin{cases}
+    (2x-a)^{2}&(x\ge a)\\
+    (-2x+6)^{2}&(x< a)
+    \end{cases}$이므로
 
 $\displaystyle\lim_{x\to a+}\{f(x)\}^{2}=\displaystyle\lim_{x\to a+}(2x-a)^{2}=a^{2}$
 
@@ -161,32 +196,11 @@ $\displaystyle\lim_{x\to a-}\{f(x)\}^{2}=\displaystyle\lim_{x\to a-}(-2x+6)^{2}=
 
 $\{f(a)\}^{2}=(2a-a)^{2}=a^{2}$
 
-이므로
-
 $a^{2}=(-2a+6)^{2}$에서
 
 $3(a-2)(a-6)=0$
 
 $a=2$ 또는 $a=6$
-
-따라서 모든 상수 $a$의 값의 합은
-
-$2+6=8$
-
-[다른 풀이]
-
-$g(x)=\{f(x)\}^{2}$라고 하면 $g(x)=\begin{cases}
-(-2x+6)^{2}&(x< a)\\
-(2x-a)^{2}&(x\ge a)
-\end{cases}$이다.
-
-$x\ne a$일 때 함수 $g(x)$는 연속이므로 함수 $g(x)$가 실수 전체의 집합에서 연속이려면 함수 $g(x)$는 $x=a$에서 연속이어야 한다.
-
-$\displaystyle\lim_{x\rightarrow a+}g(x)=\displaystyle\lim_{x\rightarrow a+}(2x-a)^{2}=a^{2}$, $\displaystyle\lim_{x\rightarrow a-}g(x)=\displaystyle\lim_{x\rightarrow a-}(-2x+6)^{2}=(-2a+6)^{2}$, 
-
-$g(a)=(2a-a)^{2}=a^{2}$
-
-이므로 $a^{2}=(-2a+6)^{2}$에서 $(a-2)(a-6)=0$
 
 따라서 모든 상수 $a$의 값의 합은 $2+6=8$
 
@@ -207,20 +221,21 @@ $f(x)=\begin{cases}
 
 <<<S>>>
 
+[[c3024]]
+
 $a_{1}=k$라고 하면 $a_{2}=\dfrac{1}{k}$, $a_{3}=\dfrac{8}{k}$, $a_{4}=\dfrac{k}{8}$이고 $a_{5}=k$이다.
 
-$a_{1}=a_{5}$이고 $1$과 $5$는 모두 홀수이므로 수열 $\left\{a_{n}\right\}$은 $k$, $\dfrac{1}{k}$, $\dfrac{8}{k}$, $\dfrac{k}{8}$이 계속 순서대로 반복되는 수열이고, $a_{1}+a_{4}=k +\dfrac{k}{8}$이다.
+$a_{1}=a_{5}$이고 $1$과 $5$는 모두 홀수이므로 수열 $\left\{a_{n}\right\}$은 $k$, $\dfrac{1}{k}$, $\dfrac{8}{k}$, $\dfrac{k}{8}$이 계속 순서대로 반복되는 수열이다.
 
-$\dfrac{1}{2}=a_{12}=a_{4}=\dfrac{k}{8}$에서 $k=4$이다.
+[[c3025]]
+
+$a_{12}=a_{4}=\dfrac{k}{8}$에서 $\dfrac{k}{8}=\dfrac{1}{2}$이고 $k=4$이다.
 
 따라서 $a_{1}+a_{4}=k +\dfrac{k}{8}=4+\dfrac{1}{2}=\dfrac{9}{2}$
 
 [다른 풀이]
 
-$a_{n}=\begin{cases}
-\dfrac{1}{a_{n+1}}&(n \text{이 홀수인 경우})\\
-\dfrac{a_{n+1}}{8}&(n \text{이 짝수인 경우})
-\end{cases}$이다.
+[[c3026]]
 
 $a_{12}=\dfrac{1}{2}$이고 $a_{12}=\dfrac{1}{a_{11}}$이므로 $a_{11}=2$
 
@@ -263,31 +278,47 @@ $a_{n+1}=\begin{cases}
 
 <<<S>>>
 
+[[m0025]]
+
+[IMG]
+
 $y=\log_{n}x$는 증가하고 $y=-\log_{n}(x+3)+1$은 감소하므로
 
-$x=1$일 때 $\log_{n}1 <  -\log_{n}(1+3)+1$$\cdots\cdots$㉠
+[[m0026]]
+
+$x=1$일 때 $\log_{n}1 < -\log_{n}(1+3)+1$$\cdots\cdots$㉠
 
 $x=2$일 때 $\log_{n}2>-\log_{n}(2+3)+1$$\cdots\cdots$㉡
 
 이 동시에 성립하면 된다.
 
+[[m0013]]
+
 ㉠을 정리하면 $\log_{n}4 < 1$이 되고 만족하는 $n$의 범위는 $n> 4$
 
-㉡을 정리하면 $\log_{n}10 > 1$이 되고 만족하는 $n$의 범위는 $n<  10$
+㉡을 정리하면 $\log_{n}10 > 1$이 되고 만족하는 $n$의 범위는 $n< 10$
 
-따라서 ㉠, ㉡를 동시에 만족하는 $n$의 범위는 $4<  n <  10$이므로 구하는 $n$의 합은 $5+6+7+8+9=35$이다.
+따라서 ㉠, ㉡를 동시에 만족하는 $n$의 범위는 $4< n < 10$이므로 구하는 $n$의 합은 $5+6+7+8+9=35$이다.
 
 [다른 풀이]
+
+[[m0027]]
 
 두 곡선이 만나는 점의 $x$좌표를 구하는 방정식 $\log_{n}x=-\log_{n}(x+3)+1$을 정리하면
 
-$\log_{n}x(x+3)=1$에서 $x(x+3)=n$이고, 이 방정식이 $1<  x < 2$에서 실근을 가지면 된다.
+$\log_{n}x(x+3)=1$에서 $x(x+3)=n$이고, 이 방정식이 $1< x < 2$에서 실근을 가지면 된다.
 
-$f(x)=x(x+3)$이라 하면 $y=f(x)$와 $y=n$이 만나는 점이 $1<  x < 2$에 존재하면 된다.$1<  x < 2$에서 $f(x)$는 증가하므로 $f(1)< n < f(2)$이 성립하면 된다.
+[[m0028]]
 
-따라서 $n$의 범위는 $4<  n <  10$이므로 구하는 $n$의 합은 $5+6+7+8+9=35$이다.
+$f(x)=x(x+3)$이라 하면 $y=f(x)$와 $y=n$이 만나는 점이 $1< x < 2$에 존재하면 된다.
+
+$1< x < 2$에서 $f(x)$는 증가하므로 $f(1)< n < f(2)$이 성립하면 된다.
+
+따라서 $n$의 범위는 $4< n < 10$이므로 구하는 $n$의 합은 $5+6+7+8+9=35$이다.
 
 [다른 풀이]
+
+[[m0027]]
 
 진수 조건에서 $x>0$
 
@@ -296,6 +327,8 @@ $-\log_{n}(x+3)+1=\log_{n}\dfrac{n}{x+3}$이므로
 $\log_{n}x=\log_{n}\dfrac{n}{x+3}$에서 $x=\dfrac{n}{x+3}$
 
 $x^{2}+3x-n=0$
+
+[[m0029]]
 
 $f(x)= x^{2}+3x-n$이라 하면
 
@@ -323,15 +356,23 @@ $y=\log_{n}x$, $y= -\log_{n}(x+3)+1$
 
 <<<S>>>
 
+[[d3016]]
+
 닫힌구간 $[0,\:1]$에서 연속이고 $f(0)=0$, $f(1)=1$, $\displaystyle\int_{0}^{1}f(x)dx =\dfrac{1}{6}$를 만족하는 함수 $f(x)$의 그래프가 예를 들어 오른쪽 그림과 같다고 하자.
 
 [IMG]
 
-$y=-f(x+1)+1$ ($-1\le x\le 0$)의 그래프는 $y=f(x)$ ($0\le x\le 1$)의 그래프를 $x$축에 대하여 대칭이동시킨 후, 그 그래프를 $x$축 방향으로 $-1$만큼, $y$축 방향으로 $1$만큼 평행이동 한 그래프이다. 
+[[d3017]]
+
+$y=-f(x+1)+1$ ($-1\le x\le 0$)의 그래프는 $y=f(x)$ ($0\le x\le 1$)의 그래프를 $x$축에 대하여 대칭이동시킨 후, 그 그래프를 $x$축 방향으로 $-1$만큼, $y$축 방향으로 $1$만큼 평행이동한 그래프이다. 
 
 [IMG]
 
+[[d3018]]
+
 따라서 $\displaystyle\int_{-1}^{1}g(x)dx=\dfrac{5}{6}+\dfrac{1}{6}=1$이다.
+
+[[d3019]]
 
 한편, (나)에 의해서 $y=g(x)$는 주기가 $2$인 주기함수이므로, 닫힌구간 $[-3,\: 2]$에서 $y=g(x)$의 그래프는 아래 그림과 같다.
 
@@ -341,9 +382,9 @@ $y=-f(x+1)+1$ ($-1\le x\le 0$)의 그래프는 $y=f(x)$ ($0\le x\le 1$)의 그�
 
 [다른 풀이]
 
-함수 $y=-f(x+1)+1$의 그래프는 함수 $y=f(x)$의 그래프를 $x$축에 대하여 대칭 이동시킨 후, $x$축의 방향으로 $-1$만큼, $y$축의 방향으로 $1$만큼 평행이동시킨 것이다.
+[[d3020]]
 
-조건 (가)에서
+$\displaystyle\int_{0}^{1}f(x)dx =\dfrac{1}{6}$이므로 
 
 $\displaystyle\int_{-1}^{0}g(x)dx$$=\displaystyle\int_{-1}^{0}\{-f(x+1)+1\}dx$
 
@@ -353,11 +394,17 @@ $=-\displaystyle\int_{0}^{1}f(x)dx +1$
 
 $=\dfrac{5}{6}$
 
+[[d3021]]
+
 $\displaystyle\int_{0}^{1}g(x)$$=\displaystyle\int_{0}^{1}f(x)dx$$=\dfrac{1}{6}$
 
 따라서 $\displaystyle\int_{-1}^{1}g(x)dx$$=\displaystyle\int_{-1}^{0}g(x)dx+\displaystyle\int_{0}^{1}g(x)dx$$=\dfrac{5}{6}+\dfrac{1}{6}=1$
 
-조건 (나)에서 $g(x+2)=g(x)$이므로  $\displaystyle\int_{-3}^{-1}g(x)dx=\displaystyle\int_{-1}^{1}g(x)dx=1$이고
+[[d3019]]
+
+조건 (나)에서 $g(x+2)=g(x)$이므로
+
+$\displaystyle\int_{-3}^{-1}g(x)dx=\displaystyle\int_{-1}^{1}g(x)dx=1$이고
 
 $\displaystyle\int_{1}^{2}g(x)dx=\displaystyle\int_{-1}^{0}g(x)dx =\dfrac{5}{6}$이다.
 
@@ -394,6 +441,8 @@ f(x)&(0\le x\le 1)
 
 <<<S>>>
 
+[[c2025]]
+
 삼각형 $\mathrm{ABD}$는 이등변삼각형이고 $\overline{\mathrm{AB}}=4$이므로 $\overline{\mathrm{BD}}=4$
 
 $\angle\mathrm{BAC}=\angle\mathrm{BDA}=\angle\mathrm{BED}=\theta$라 하자.
@@ -406,7 +455,11 @@ $=4^{2}+5^{2}-2\times 4\times 5\times\dfrac{1}{8}$$=36$이므로
 
 $\overline{\mathrm{BC}}=6$
 
+[[c2018]]
+
 $\overline{\mathrm{AD}}=2\overline{\mathrm{AB}}\cos\theta =2\times 4\times\dfrac{1}{8}= 1$이므로 삼각형 $\mathrm{BCD}$는 $\overline{\mathrm{DB}}=\overline{\mathrm{DC}}=4$인 이등변삼각형이다.
+
+[[c2024]]
 
 이등변삼각형 $\mathrm{BCD}$의 높이는 $\sqrt{4^{2}-3^{2}}=\sqrt{7}$이므로 $\sin(\angle\mathrm{DBC})=\dfrac{\sqrt{7}}{4}$
 
@@ -418,9 +471,13 @@ $\cos\theta =\dfrac{1}{8}$에서 $\sin\theta =\sqrt{1-\left(\dfrac{1}{8}\right)^
 
 [다른 풀이]
 
+[[c2018]]
+
 삼각형 $\mathrm{ABD}$에서
 
-$\angle\mathrm{BAC}=\angle\mathrm{BDA}$이고 $\overline{\mathrm{AB}}=4$이므로 $\overline{\mathrm{BD}}=4$ $\cdots\cdots$㉠
+$\angle\mathrm{BAC}=\angle\mathrm{BDA}$이고 $\overline{\mathrm{AB}}=4$이므로 $\overline{\mathrm{BD}}=4$
+
+[IMG]
 
 이때, 점 $\mathrm{B}$에서 선분 $\mathrm{AD}$에 내린 수선의 발을 $\mathrm{H}$라 하면
 
@@ -428,17 +485,9 @@ $\overline{\mathrm{AH}}=\overline{\mathrm{AB}}\cos(\angle\mathrm{BAC})=4\times\d
 
 그러므로 $\overline{\mathrm{AD}}=1$
 
-[IMG]
+[[c2025]]
 
-삼각형 $\mathrm{BCD}$는 $\overline{\mathrm{DB}}=\overline{\mathrm{DC}}=4$인 이등변삼각형이다.
-
-점 $\mathrm{D}$에서 변 $\mathrm{BC}$에 내린 수선의 발을 $\mathrm{H}',\:\overline{\mathrm{DE}}= x$라 하면
-
-$\overline{\mathrm{DH'}}$$=x\sin(\angle\mathrm{H}'\mathrm{ED})$$=x\times\sqrt{1-\left(\dfrac{1}{8}\right)^{2}}$$=\dfrac{\sqrt{63}}{8}x\cdots\cdots$㉡
-
-[IMG]
-
-한편, 삼각형 $\mathrm{ABC}$에서
+삼각형 $\mathrm{ABC}$에서
 
 $\overline{\mathrm{BC}}^{2}$$=\overline{\mathrm{AB}}^{2}+\overline{\mathrm{AC}}^{2}-2\times\overline{\mathrm{AB}}\times\overline{\mathrm{AC}}\times\cos(\angle\mathrm{BAC})$
 
@@ -448,13 +497,25 @@ $=36$
 
 이므로 $\overline{\mathrm{BC}}=6$
 
-이때, $\overline{\mathrm{BH'}}=\dfrac{1}{2}\overline{\mathrm{BC}}=3\cdots\cdots$㉢
+[[c2026]]
 
-직각삼각형 $\mathrm{DBH}'$에서 ㉠, ㉡, ㉢을 이용하면
+한편, 삼각형 $\mathrm{BCD}$는 $\overline{\mathrm{DB}}=\overline{\mathrm{DC}}=4$인 이등변삼각형이다.
 
-$4^{2}=\left(\dfrac{\sqrt{63}}{8}x\right)^{2}+3^{2}$, $\dfrac{63}{64}x^{2}=7$, $x^{2}=\dfrac{64}{9}$
+[IMG]
 
-$x>0$이므로 $x=\dfrac{8}{3}$
+점 $\mathrm{D}$에서 변 $\mathrm{BC}$에 내린 수선의 발을 $\mathrm{H}'$이라 하면
+
+$\overline{\mathrm{BH'}}=\dfrac{1}{2}\overline{\mathrm{BC}}=3$
+
+$\overline{\mathrm{DH'}}=\sqrt{4^{2}-3^{2}}=\sqrt{7}$
+
+$\sin (\angle \mathrm{DEH'})=\sqrt{1-\left( \dfrac{1}{8} \right)^{2}}=\dfrac{3\sqrt{7}}{8}$
+
+[[c2027]]
+
+직각삼각형 $\mathrm{DBH}'$에서
+
+$\sin (\angle \mathrm{DEH'})=\dfrac{\sqrt{7}}{\overline{\mathrm{DE}}}$
 
 따라서 $\overline{\mathrm{DE}}=\dfrac{8}{3}$
 
@@ -472,13 +533,15 @@ $x>0$이므로 $x=\dfrac{8}{3}$
 
 <<<S>>>
 
-(ⅰ) $k=1,\:4,\:9,\:16$일 때
+[[c3027]]
+
+(a) $k=1,\:4,\:9,\:16$일 때
 
 $f(1)=1$이고 $f(x+1)=f(x)$이므로
 
 $f(1)=f(2)=f(3)=f(4)=1$에서 $f(\sqrt{k})=1$
 
-(ⅱ) $k\ne 1,\:4,\:9,\:16$일 때
+(b) $k\ne 1,\:4,\:9,\:16$일 때
 
 $f(\sqrt{k})=3$
 
@@ -487,15 +550,19 @@ $f(\sqrt{k})=3$
 3&(k\ne 1,\:4,\: 9,\: 16)
 \end{cases}$이다.
 
+[[c3028]]
+
 따라서
 
 $\displaystyle\sum_{k=1}^{20}k=210$이고, $1+4+9+16=30$이므로
 
-$\displaystyle\sum_{k=1}^{20}\dfrac{k\times f(\sqrt{k})}{3}$$=\displaystyle\sum_{k=1}^{20}\left\{k\times\dfrac{f(\sqrt{k})}{3}\right\}$
+$\displaystyle\sum_{k=1}^{20}\dfrac{k\times f(\sqrt{k})}{3}$
 
-$=30\times\dfrac{1}{3}+(210-30)\times\dfrac{3}{3}$
+$=\left( 1+4+9+16 \right) \times \dfrac{1}{3}+\left(\displaystyle\sum_{k=1}^{20} k-(1+4+9+16) \right) \times \dfrac{3}{3}$ 
 
-$=10+180=190$
+$=10 +(210-30)$
+
+$=190$
 
 <<<P>>>
 
@@ -516,6 +583,8 @@ $\displaystyle\sum_{k=1}^{20}\dfrac{k\times f(\sqrt{k})}{3}$의 값은? [4점]
 
 <<<S>>>
 
+[[d2012]]
+
 $f'(x)$$=3x^{2}-6x-9$$=3(x+1)(x-3)$
 
 $f'(x)=0$에서 $x=-1$ 또는 $x=3$
@@ -526,6 +595,8 @@ $f'(x)=0$에서 $x=-1$ 또는 $x=3$
 
 함수 $f(x)$는 $x=-1$에서 극댓값 $f(-1)=-7$을 갖고, $x=3$에서 극솟값 $f(3)=-39$를 갖는다.
 
+[[d2039]]
+
 조건 (가)에서 $xg(x)= | xf(x-p)+qx |$이므로
 
 $g(x)=\begin{cases}
@@ -534,9 +605,13 @@ g(0)&(x=0)\\
 - | f(x-p)+q |&(x< 0)
 \end{cases}$
 
+[[d2040]]
+
 함수 $g(x)$가 $x=0$에서 연속이므로 $| f(-p)+q | =- | f(-p)+q |$
 
 즉, $| f(-p)+q | =0$이어야 한다.
+
+[[d2041]]
 
 한편, 함수 $y= | f(x-p)+q |$의 그래프는 함수 $y=f(x)$의 그래프를 $x$축의 방향으로 $p$만큼, $y$축의 방향으로 $q$만큼 평행이동시킨 후, $y< 0$인 부분에 그려진 부분을 $x$축에 대하여 대칭이동시킨 것이다.
 
@@ -552,9 +627,7 @@ g(0)&(x=0)\\
 
 (가) 모든 실수 $x$에 대하여 $xg(x)= | xf(x-p)+qx |$이다.
 
-(나) 함수 $g(x)$가 $x=a$에서 미분가능하지 않는 실수 $a$의 
-
-개수는 $1$이다.
+(나) 함수 $g(x)$가 $x=a$에서 미분가능하지 않는 실수 $a$의 개수는 $1$이다.
 
 <<<C>>>① $6$ ② $7$ ③ $8$ ④ $9$ ⑤ $10$
 
@@ -562,7 +635,7 @@ g(0)&(x=0)\\
 
 <<<S>>>
 
-ㄱ. 방정식 $\left(\sin\dfrac{\pi x}{2}-t\right)\left(\cos\dfrac{\pi x}{2}-t\right)=0$에서
+방정식 $\left(\sin\dfrac{\pi x}{2}-t\right)\left(\cos\dfrac{\pi x}{2}-t\right)=0$에서
 $\sin\dfrac{\pi x}{2}=t$ 또는 $\cos\dfrac{\pi x}{2}=t$
 
 이 방정식의 실근은 두 함수 $y=\sin\dfrac{\pi x}{2},\:y=\cos\dfrac{\pi x}{2}$의 그래프와 $y=t$와의 교점의 $x$좌표이다.
@@ -570,6 +643,79 @@ $\sin\dfrac{\pi x}{2}=t$ 또는 $\cos\dfrac{\pi x}{2}=t$
 한편, 두 함수 $y=\sin\dfrac{\pi x}{2},\:y=\cos\dfrac{\pi x}{2}$의 주기가 모두 $4$이므로 다음과 같다.
 
 [IMG]
+
+ㄱ. 
+
+[[c2010]]
+
+$-1\le t< 0$일 때, $\alpha(t),\:\beta(t)$는 다음 그림과 같이 정해진다.
+
+[IMG]
+
+두 함수 $y=\sin\dfrac{\pi x}{2},\:y=\cos\dfrac{\pi x}{2}$의 그래프는 직선 $x=\dfrac{5}{2}$에 대하여 대칭이므로 $\dfrac{\alpha(t)+\beta(t)}{2}=\dfrac{5}{2}$
+
+따라서 $\alpha(t)+\beta(t)=5$ (참)
+
+ㄴ.
+
+[[c2011]]
+
+실근 $\alpha(t),\:\beta(t)$는 집합 $\{x\vert  0\le x< 4\}$의 원소이므로 $\beta(0)=3,\:\alpha(0)=0$
+
+그러므로 주어진 식은 $\{t\vert \beta(t)-\alpha(t)=\beta(0)-\alpha(0)\}=\{t\vert \beta(t)-\alpha(t)=3\}$
+
+(a) $-1\le t< 0$일 때,
+
+$1 \leq \beta(t)-\alpha(t)< 3$
+
+(b) $0\le t\le\dfrac{\sqrt{2}}{2}$일 때,
+
+$\beta(t)-\alpha(t)=3$
+
+(c) $\dfrac{\sqrt{2}}{2}< t< 1$일 때,
+
+$3< \beta(t)-\alpha(t) <4 $
+
+(d) $t=1$일 때,
+
+$\alpha(1)=0,\:\beta(1)=1$이므로 $\beta(1)-\alpha(1)=1$
+
+따라서 (a), (b), (c), (d)에서
+
+$\left\{t \left| \beta(t)-\alpha(t)=3 \right.\right\}=\left\{t \left| 0\le t\le\dfrac{\sqrt{2}}{2} \right.\right\}$ (참)
+
+ㄷ.
+
+[[c2012]]
+
+$t_{1} < t_{2}$일 때 $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)$이기 위해서는 $0< t_{1}< \dfrac{\sqrt{2}}{2}< t_{2}$
+
+이때, $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)=\theta$라 하면 $t_{1}=\sin\theta ,\:t_{2}=\cos \theta$
+
+이때, $\cos\theta -\sin\theta =\dfrac{1}{2}$
+
+양변을 제곱하면 $\cos^{2}\theta +\sin^{2}\theta -2\sin\theta \cos\theta =\dfrac{1}{4}$
+
+정리하면 $\sin\theta\cos\theta =\dfrac{3}{8}$
+
+따라서 $t_{1}\times t_{2}=\sin\theta\cos\theta =\dfrac{3}{8}$  (거짓)
+
+
+
+
+[다른 풀이]
+
+방정식 $\left(\sin\dfrac{\pi x}{2}-t\right)\left(\cos\dfrac{\pi x}{2}-t\right)=0$에서 $\sin\dfrac{\pi x}{2}=t$ 또는 $\cos\dfrac{\pi x}{2}=t$
+
+이 방정식의 실근은 두 함수 $y=\sin\dfrac{\pi x}{2},\:y=\cos\dfrac{\pi x}{2}$의 그래프와 $y=t$와의 교점의 $x$좌표이다.
+
+한편, 두 함수 $y=\sin\dfrac{\pi x}{2},\:y=\cos\dfrac{\pi x}{2}$의 주기가 모두 $4$이므로 다음과 같다.
+
+[IMG]
+
+ㄱ.
+
+[[c2010]]
 
 $-1\le t< 0$이면 직선 $y=t$와 $\alpha(t),\:\beta(t)$는 다음 그림과 같다.
 
@@ -581,11 +727,15 @@ $-1\le t< 0$이면 직선 $y=t$와 $\alpha(t),\:\beta(t)$는 다음 그림과 �
 
 따라서 $\alpha(t)+\beta(t)=5$ (참)
 
-ㄴ. 실근 $\alpha(t),\:\beta(t)$는 집합 $\{x\vert  0\le x< 4\}$의 원소이므로 $\beta(0)=3,\:\alpha(0)=0$
+ㄴ.
+
+[[c2011]]
+
+실근 $\alpha(t),\:\beta(t)$는 집합 $\{x\vert  0\le x< 4\}$의 원소이므로 $\beta(0)=3,\:\alpha(0)=0$
 
 그러므로 주어진 식은 $\{t\vert \beta(t)-\alpha(t)=\beta(0)-\alpha(0)\}=\{t\vert \beta(t)-\alpha(t)=3\}$
 
-(ⅰ) $0\le t\le\dfrac{\sqrt{2}}{2}$일 때,
+(a) $0\le t\le\dfrac{\sqrt{2}}{2}$일 때,
 
 $t=0$이면 $\beta(0)-\alpha(0)=3-0=3$
 
@@ -593,11 +743,11 @@ $t\ne 0$이면 다음 그림과 같다.
 
 [IMG]
 
-이때,    $\alpha(t)=k\left(0< k\le\dfrac{1}{2}\right)$이라 하면 $\beta(t)=3+k$
+이때, $\alpha(t)=k\left(0< k\le\dfrac{1}{2}\right)$이라 하면 $\beta(t)=3+k$
 
 그러므로 $\beta(t)-\alpha(t)=3$
 
-(ⅱ) $\dfrac{\sqrt{2}}{2}< t< 1$일 때,
+(b) $\dfrac{\sqrt{2}}{2}< t< 1$일 때,
 
 [IMG]
 
@@ -605,31 +755,35 @@ $t\ne 0$이면 다음 그림과 같다.
 
 그러므로 $\beta(t)-\alpha(t)=4-2k(0< 2k< 1)$
 
-(ⅲ) $t=1$일 때,
+(c) $t=1$일 때,
 
 $\alpha(1)=0,\:\beta(1)=1$이므로 $\beta(1)-\alpha(1)=1$
 
-(ⅳ) $-1\le t< 0$일 때,
+(d) $-1\le t< 0$일 때,
 
 [IMG]
 
 $1< \alpha(t)\le 2,\:3\le\beta(t)< 4$이므로 $\beta(t)-\alpha(t)< 3$
 
-따라서 (ⅰ), (ⅱ), (ⅲ), (ⅳ)에서
+따라서 (a), (b), (c), (d)에서
 
 $\{t \left| \beta(t)-\alpha(t)=3 \right. \}=\left\{t \left| 0\le t\le\dfrac{\sqrt{2}}{2} \right. \right\}$ (참)
 
-ㄷ. $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)$이기 위해서는 $0< t_{1}< \dfrac{\sqrt{2}}{2}< t_{2}$
+ㄷ.
 
-이때, $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)=k$라 하면 $t_{1}=\sin\dfrac{\pi}{2}k ,\:t_{2}=\cos\dfrac{\pi}{2}k$
+[[c2012]]
 
-이때, $\cos\dfrac{\pi}{2}k -\sin\dfrac{\pi}{2}k =\dfrac{1}{2}$
+$\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)$이기 위해서는 $0< t_{1}< \dfrac{\sqrt{2}}{2}< t_{2}$
 
-양변을 제곱하면 $\cos^{2}\dfrac{\pi}{2}k +\sin^{2}\dfrac{\pi}{2}k -2\sin\dfrac{\pi}{2}k\cos\dfrac{\pi}{2}k =\dfrac{1}{4}$
+이때, $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)=\theta$라 하면 $t_{1}=\sin\theta ,\:t_{2}=\cos\theta$
 
-정리하면 $\sin\dfrac{\pi}{2}k\cos\dfrac{\pi}{2}k =\dfrac{3}{8}$
+이때, $\cos\theta -\sin\theta =\dfrac{1}{2}$
 
-따라서 $t_{1}\times t_{2}=\sin\dfrac{\pi}{2}k\cos\dfrac{\pi}{2}k =\dfrac{3}{8}$  (거짓)
+양변을 제곱하면 $\cos^{2}\theta +\sin^{2}\theta -2\sin\theta\cos\theta =\dfrac{1}{4}$
+
+정리하면 $\sin\theta\cos\theta =\dfrac{3}{8}$
+
+따라서 $t_{1}\times t_{2}=\sin\theta\cos\theta =\dfrac{3}{8}$  (거짓)
 
 <<<P>>>
 
@@ -637,13 +791,13 @@ $-1\le t\le 1$인 실수 $t$에 대하여 $x$에 대한 방정식
 
 $\left(\sin\dfrac{\pi x}{2}-t\right)\left(\cos\dfrac{\pi x}{2}-t\right)=0$
 
-의 실근 중에서 집합 $\{x | 0\le x <  4\}$에 속하는 가장 작은 값을 $\alpha(t)$, 가장 큰 값을 $\beta(t)$라 하자. < 보기>에서 옳은 것만을 있는 대로 고른 것은? [4점]
+의 실근 중에서 집합 $\{x | 0\le x < 4\}$에 속하는 가장 작은 값을 $\alpha(t)$, 가장 큰 값을 $\beta(t)$라 하자. < 보기>에서 옳은 것만을 있는 대로 고른 것은? [4점]
 
 < 보 기>
 
-ㄱ. $-1\le t <  0$인 모든 실수 $t$에 대하여 $\alpha(t)+\beta(t)$$=5$이다.
+ㄱ. $-1\le t < 0$인 모든 실수 $t$에 대하여 $\alpha(t)+\beta(t)=5$이다.
 
-ㄴ. $\{t |\beta(t)-\alpha(t)=\beta(0)-\alpha(0)\}=\left\{t\left | 0\le t\le\dfrac{\sqrt{2}}{2}\right\}\right.$
+ㄴ. $\{t |\beta(t)-\alpha(t)=\beta(0)-\alpha(0)\}=\left\{ t \left | 0\le t \le \dfrac{\sqrt{2}}{2} \right. \right\}$
 
 ㄷ. $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)$인 두 실수 $t_{1}$, $t_{2}$에 대하여
 $t_{2}-t_{1}=\dfrac{1}{2}$이면 $t_{1}\times t_{2}=\dfrac{1}{3}$이다.
@@ -653,6 +807,8 @@ $t_{2}-t_{1}=\dfrac{1}{2}$이면 $t_{1}\times t_{2}=\dfrac{1}{3}$이다.
 <<<A>>>$2$
 
 <<<S>>>
+
+[[c1006]]
 
 $\log_{4}\dfrac{2}{3}+\log_{4}24$
 
@@ -670,6 +826,8 @@ $\log_{4}\dfrac{2}{3}+\log_{4}24$의 값을 구하시오. [3점]
 
 <<<S>>>
 
+[[d2010]]
+
 $f'(x)=3x^{2}-3=3(x+1)(x-1)$
 
 $f'(x)=0$에서 $x=-1$ 또는 $x=1$
@@ -677,6 +835,8 @@ $f'(x)=0$에서 $x=-1$ 또는 $x=1$
 함수 $f(x)$의 증가와 감소를 표로 나타내면 다음과 같다.
 
 [IMG]
+
+[[d2014]]
 
 함수 $f(x)$는 $x=1$에서 극소이므로 $a=1$
 
@@ -692,6 +852,8 @@ $a+f(a)=1+f(1)=1+10=11$
 
 <<<S>>>
 
+[[c3004]]
+
 등비수열 $\left\{a_{n}\right\}$의 공비를 $r$이라고 하면 
 
 $a_{2}=36$이고 $a_{7}=\dfrac{1}{3}a_{5}$에서 $36r^{5}=\dfrac{1}{3}\times 36r^{3}$이다. 
@@ -702,11 +864,19 @@ $a_{6}=a_{2}r^{4}=36\times\dfrac{1}{9}=4$
 
 [다른 풀이]
 
-등비수열 $\left\{a_{n}\right\}$의 공비를 $r$, $a_{1}=a$라 하면 $a_{2}=36$에서
+[[c3002]]
 
-$ar=36\cdots\cdots$㉠
+등비수열 $\left\{a_{n}\right\}$의 공비를 $r$, $a_{1}=a$라 하자.
 
-또, $a_{7}=\dfrac{1}{3}a_{5}$에서 $ar^{6}=\dfrac{1}{3}ar^{4}$   $r^{2}=\dfrac{1}{3}\cdots\cdots$㉡
+[[m0010]]
+
+$a_{2}=36$에서 $ar=36\cdots\cdots$㉠
+
+또, $a_{7}=\dfrac{1}{3}a_{5}$에서 $ar^{6}=\dfrac{1}{3}ar^{4}$
+
+$r^{2}=\dfrac{1}{3}\cdots\cdots$㉡
+
+[[m0001]]
 
 따라서 ㉠과 ㉡에서
 
@@ -728,6 +898,8 @@ $a_{2}= 36 ,\: a_{7}=\dfrac{1}{3}a_{5}$
 
 <<<S>>>
 
+[[d3022]]
+
 시각 $t$에서 점 $\mathrm{P}$의 위치를 $x(t)$라 하면 시각 $t=0$에서 점 $\mathrm{P}$의 위치가 $0$이므로
 
 $v(t)=3t^{2}-4t+k$에서 $x(t)=t^{3}-2t^{2}+kt$
@@ -736,17 +908,23 @@ $v(t)=3t^{2}-4t+k$에서 $x(t)=t^{3}-2t^{2}+kt$
 
 따라서 $x(t)=t^{3}-2t^{2}-2t$이고, $x(3)=27-18-6=3$이다.
 
+[[m0001]]
+
 그러므로 시각 $t=1$에서 $t=3$까지 점 $\mathrm{P}$의 위치의 변화량은
 
 $x(3)-x(1)=3-(-3)=6$
 
 [다른 풀이]
 
+[[d3023]]
+
 $x(1)=x(0)+\displaystyle\int_{0}^{1}v(t)dt$에서 $-3=0+\displaystyle\int_{0}^{1}(3t^{2}-4t+k)dt$
 
 정리하면 $-3=\left[t^{3}-2t^{2}+k\right]_{0}^{1}=1-2+k$
 
 따라서 $k=-2$
+
+[[d3024]]
 
 $t=1$에서 $t=3$까지 점 $\mathrm{P}$의 위치의 변화량은
 
@@ -764,13 +942,19 @@ $v(t)=3t^{2}-4t+k$
 
 <<<S>>>
 
-$f'(x)$$=3x^{2}-24x+45$$=3(x-3)(x-5)$이고
+[[d3007]]
 
-$g(x)$$=\displaystyle\int_{a}^{x}\{f(x)-f(t)\}\times\{f(t)\}^{4}dt$$=f(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt -\displaystyle\int_{a}^{x}\{f(t)\}^{5}dt$
+$f'(x)$ $=3x^{2}-24x+45$ $=3(x-3)(x-5)$이고
 
-$g'(x)$$=f'(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt +\{f(x)\}^{5}-\{f(x)\}^{5}$$=f'(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt$
+$g(x)$ $=\displaystyle\int_{a}^{x}\{f(x)-f(t)\}\times\{f(t)\}^{4}dt$
+$=f(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt -\displaystyle\int_{a}^{x}\{f(t)\}^{5}dt$
+
+$g'(x)$ $=f'(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt +\{f(x)\}^{5}-\{f(x)\}^{5}$
+$=f'(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt$
 
 $=3(x-3)(x-5)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt$
+
+[[d2015]]
 
 $h(x)=\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt$라 하면 $h(a)=0$이고 $h'(x)=\{f(x)\}^{4}\ge 0$이다.
 
@@ -784,41 +968,51 @@ $h(x)=\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt$라 하면 $h(a)=0$이고 $h'(x)=\
 
 [다른 풀이]
 
+[[d3007]]
+
 $f(x)=x^{3}-12x^{2}+45x+3$에서
 
-$f'(x)$$=3x^{2}-24x+45$$=3(x-3)(x-5)$
+$f'(x)$ $=3x^{2}-24x+45$$=3(x-3)(x-5)$
 
-$g(x)$$=\displaystyle\int_{a}^{x}\{f(x)-f(t)\}\times\{f(t)\}^{4}dt$
+$g(x)$ $=\displaystyle\int_{a}^{x}\{f(x)-f(t)\}\times\{f(t)\}^{4}dt$
 
 $=f(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt -\displaystyle\int_{a}^{x}\{f(t)\}^{5}dt$
 
-$g'(x)$$=f'(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt +\{f(x)\}^{5}-\{f(x)\}^{5}$
+$g'(x)$ $=f'(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt +\{f(x)\}^{5}-\{f(x)\}^{5}$
 
 $=f'(x)\displaystyle\int_{a}^{x}\{f(t)\}^{4}dt$
 
 $g'(x)=0$에서 $f'(x)=0$ 또는 $x=a$
 
-(ⅰ) $a\ne 3$, $a\ne 5$일 때, 
+[[d2015]]
+
+(a) $a\ne 3$, $a\ne 5$일 때, 
+
 $g'(x)=0$에서 $x=3$ 또는 $x=5$ 또는 $x=a$
+
 함수 $g(x)$는 $x=3$, $x=5$, $x=a$에서 모두 극값을 갖는다.
 
-(ⅱ) $a=3$일 때
+(b) $a=3$일 때
+
 $g'(x)=0$에서 $x=3$ 또는 $x=5$
+
 함수 $g(x)$의 증가와 감소를 표로 나타내면 다음과 같다.
 
 [IMG]
 
 함수 $g(x)$는 $x=5$에서만 극값을 갖는다.
 
-(ⅲ) $a=5$일 때
+(c) $a=5$일 때
+
 $g'(x)=0$에서 $x=3$ 또는 $x=5$
+
 함수 $g(x)$의 증가와 감소를 표로 나타내면 다음과 같다.
 
 [IMG]
 
 함수 $g(x)$는 $x=3$에서만 극값을 갖는다.
 
-(ⅰ), (ⅱ), (ⅲ)에서 함수 $g(x)$가 오직 하나의 극값을 갖도록 하는 $a$의 값은 $3$ 또는 $5$이다.
+(a), (b), (c)에서 함수 $g(x)$가 오직 하나의 극값을 갖도록 하는 $a$의 값은 $3$ 또는 $5$이다.
 
 따라서 모든 $a$의 값의 합은 $3+5=8$
 
@@ -834,40 +1028,48 @@ $g(x)=\displaystyle\int_{a}^{x}\{f(x)-f(t)\}\times\{f(t)\}^{4}dt$
 
 <<<S>>>
 
+[[m0030]]
+
 방정식 $x^{n}-64=0$은 자연수 $n$이 홀수이면 한 개의 실근을, 짝수이면 두 개의 실근을 갖는다.
 
-조건 (가)로부터 자연수 $n$은 짝수이고, 방정식 $f(x)=0$의 서로 다른 두 실근은 방정식 $x^{n}-64=0$의 두 실근 $\pm 2^{\dfrac{6}{n}}$과 각각 같아야 한다.
+조건 (가)로부터 자연수 $n$은 짝수이고, 방정식 $f(x)=0$의 서로 다른 두 실근은 방정식 $x^{n}-64=0$의 두 실근 $\pm 2^{\frac{6}{n}}$과 각각 같아야 한다.
 
-즉, $f(x)=\left(x-2^{\dfrac{6}{n}}\right)\left(x+2^{\dfrac{6}{n}}\right)=x^{2}-2^{\dfrac{12}{n}}$
+즉, $f(x)=\left(x-2^{\frac{6}{n}}\right)\left(x+2^{\frac{6}{n}}\right)=x^{2}-2^{\frac{12}{n}}$
 
-조건(나)에서 $f(x)$의 최솟값 $-2^{\dfrac{12}{n}}$이 음의 정수이므로 짝수인 자연수 $n$은 $12$의 약수이어야 한다. 따라서 $n=2$, $4$, $6$, $12$이다. 그 합은 $2+4+6+12 = 24$
+[[m0031]]
+
+조건 (나)에서 $f(x)$의 최솟값 $-2^{\frac{12}{n}}$이 음의 정수이므로 짝수인 자연수 $n$은 $12$의 약수이어야 한다. 따라서 $n=2$, $4$, $6$, $12$이고, 그 합은 $2+4+6+12 = 24$이다.
 
 [다른 풀이]
 
+[[m0030]]
+
 함수 $f(x)$는 최고차항의 계수가 $1$이고 최솟값이 음수이므로 방정식 $f(x)=0$은 서로 다른 두 실근을 갖는다.
 
-(ⅰ) $n$이 홀수일 때,
+(a) $n$이 홀수일 때,
 
 방정식 $x^{n}=64$의 실근의 개수는 $1$이다.
 
 그러므로 방정식 $(x^{n}-64)f(x)=0$의 근이 모두 중근일 수 없다.
 
-(ⅱ) $n$이 짝수일 때,
+(b) $n$이 짝수일 때,
 
 방정식 $x^{n}=64$의 실근은 $x=\sqrt[n]{64}$ 또는 $x= -\sqrt[n]{64}$
 
-즉, $x=2^{\dfrac{6}{n}}$ 또는 $x= -2^{\dfrac{6}{n}}$
+즉, $x=2^{\frac{6}{n}}$ 또는 $x= -2^{\frac{6}{n}}$
 
 이때, 조건 (가)를 만족하기 위해서는
-$f(x)=\left(x-2^{\dfrac{6}{n}}\right)\left(x+2^{\dfrac{6}{n}}\right)$ $\cdots\cdots$㉠
+$f(x)=\left(x-2^{\frac{6}{n}}\right)\left(x+2^{\frac{6}{n}}\right)$ $\cdots\cdots$㉠
+
+[[m0031]]
 
 한편, 조건 (나)에서 함수 $f(x)$의 최솟값은 음의 정수이다.
 
-㉠에서 함수 $f(x)$는 $x=0$에서 최솟값을 갖고 그 값은 $-2^{\dfrac{6}{n}}\times 2^{\dfrac{6}{n}}= -2^{\dfrac{12}{n}}$
+㉠에서 함수 $f(x)$는 $x=0$에서 최솟값을 갖고 그 값은 $-2^{\frac{6}{n}}\times 2^{\frac{6}{n}}= -2^{\frac{12}{n}}$
 
 이 값이 음의 정수이기 위해서는 $n$의 값은 $2$, $4$, $6$, $12$  
 
-따라서 (ⅰ), (ⅱ)에서 $n$의 모든 값의 합은 $2+4+6+12 = 24$
+따라서 모든 $n$의 값의 합은 $2+4+6+12 = 24$이다.
 
 <<<P>>>
 
@@ -883,27 +1085,51 @@ $f(x)=\left(x-2^{\dfrac{6}{n}}\right)\left(x+2^{\dfrac{6}{n}}\right)$ $\cdots\cd
 
 <<<S>>>
 
+[[d2042]]
+
 조건 (가)에서 방정식 $f(x)=0$의 서로 다른 두 실근을 $\alpha$, $\beta$라 하면
 
-$f(x)=k(x-\alpha)^{2}(x-\beta)$로 놓을 수 있다.
+$f(x)=a(x-\alpha)^{2}(x-\beta)$로 놓을 수 있다.
+
+[[d2043]]
 
 조건 (나)에서 $x-f(x)=\alpha$ 또는 $x-f(x)=\beta$를 만족시키는 서로 다른 $x$의 값의 개수가 $3$이어야 한다.
 
 즉, $f(x)=x-\alpha$ 또는 $f(x)=x-\beta$에서 곡선 $y=f(x)$와 두 직선 $y=x-\alpha$, $y=x-\beta$가 만나는 서로 다른 점의 개수가 $3$이어야 한다.
 
-한편, 곡선 $y=f(x)$ 위의 점 $(1,\: 4)$에서의 접선의 기울기가 $1$이므로 접선의 방정식은 $y=x+3$
+그런데 $a>0$인 경우는 다음 그림과 같이 만나는 서로 다른 점의 개수가 $5$개 이상이므로 $a<0$이어야 한다.
 
-그런데 $f(0)>0$, $f'(0)>1$이므로 곡선 $y=f(x)$와 직선 $y=x+3$는 그림과 같다.
+[IMG] [IMG] [IMG] [IMG]
+
+$a<0$인 경우는 다음 두 가지 가능성이 있다.
+
+[IMG] [IMG]
+
+두 번째 그림의 경우는 점 $(1,4)$가 $x< \alpha$ 범위에 있고, 이 때 $f'(1)<0$이므로 성립하지 않는다.
+
+따라서 구하는 경우는 첫 번째 그림이다.
+
+[[d2008]]
 
 [IMG]
 
-$f(x)-(x+3)=k(x+3)(x-1)^{2}$이므로 $f(x)=k(x+3)(x-1)^{2}+x+3$
+첫번째 그림에서 접선의 기울기가 $1$인 점이 두 개 있는데,
 
-$f'(x)=k(x-1)^{2}+k(x+3)\times 2(x-1)+1$ $\cdots\cdots$㉠
+만약 그림에서 점 $\mathrm{P}$의 $x$좌표가 $1$이라 하면 $f'(0)>1$에 모순이므로
 
-이때, $f'(-3)=0$이므로 ㉠에 $x= -3$을 대입하면
+곡선 $y=f(x)$와 직선 $y=x-\alpha$의 접점의 $x$좌표가 $1$이다.
 
-$0=k\times 16 +1$에서 $k= -\dfrac{1}{16}$
+[[m0006]]
+
+따라서  $f(x)-(x-\alpha)=a(x-1)^2 (x-\alpha)$로 나타낼 수 있으므로
+
+$f(x)=a(x-1)^2 (x-\alpha)+(x-\alpha)$이다.
+
+$f(1)=1-\alpha =4$에서 $\alpha=-3$
+
+$f(x)=a(x-1)^2 (x+3)+(x+3)$이고, $f'(x)=a(x-1)^{2}+2a(x+3)\times (x-1)+1$
+
+이때, $f'(-3)=0$이므로 $a\times 16 +1=0$에서 $a= -\dfrac{1}{16}$
 
 이때, $f(x)= -\dfrac{1}{16}(x+3)(x-1)^{2}+x+3$이므로 $f(0)= -\dfrac{1}{16}\times 3\times 1 +3 =\dfrac{45}{16}$
 
@@ -915,9 +1141,7 @@ $0=k\times 16 +1$에서 $k= -\dfrac{1}{16}$
 
 (가) 방정식 $f(x)=0$의 서로 다른 실근의 개수는 $2$이다. 
 
-(나) 방정식 $f(x-f(x))=0$의 서로 다른 실근의 개수는 
-
-$3$이다.
+(나) 방정식 $f(x-f(x))=0$의 서로 다른 실근의 개수는 $3$이다.
 
 $f(1)=4$, $f'(1)=1$, $f'(0)>1$일 때, $f(0)=\dfrac{q}{p}$이다. $p+q$의 값을 구하시오. (단, $p$와 $q$는 서로소인 자연수이다.) [4점]
 
@@ -1030,20 +1254,20 @@ ${}_{3}\mathrm{H}_{3}={}_{3+3-1}\mathrm{C}_{3}={}_{5}\mathrm{C}_{3}={}_{5}\mathr
 
 $6^{2}\times 2^{4}$
 
-(ⅰ) 앞면이 나온 동전의 개수가 $1$인 경우의 수는
-${}_{4}\mathrm{C}_{1}=4$
+(ⅰ) 앞면이 나온 동전의 개수가 $1$인 경우의 수는 ${}_{4}\mathrm{C}_{1}=4$
+
 이때 두 주사위에서 나온 눈의 수가 $(1,\:1)$이어야 하므로 이 경우의 수는 $4\times 1=4$
 
-(ⅱ) 앞면이 나온 동전의 개수가 $2$인 경우의 수는
-${}_{4}\mathrm{C}_{2}=\dfrac{4\times 3}{2}=6$
+(ⅱ) 앞면이 나온 동전의 개수가 $2$인 경우의 수는 ${}_{4}\mathrm{C}_{2}=\dfrac{4\times 3}{2}=6$
+
 이때 두 주사위에서 나온 눈의 수가 $(1,\:2)$ 또는 $(2,\:1)$이어야 하므로 이 경우의 수는 $6\times 2=12$
 
-(ⅲ) 앞면이 나온 동전의 개수가 $3$인 경우의 수는
-${}_{4}\mathrm{C}_{3}={}_{4}\mathrm{C}_{1}=4$
+(ⅲ) 앞면이 나온 동전의 개수가 $3$인 경우의 수는 ${}_{4}\mathrm{C}_{3}={}_{4}\mathrm{C}_{1}=4$
+
 이때 두 주사위에서 나온 눈의 수가 $(1,\:3)$ 또는 $(3,\:1)$이어야 하므로 이 경우의 수는 $4\times 2=8$
 
-(ⅳ) 앞면이 나온 동전의 개수가 $4$인 경우의 수는
-${}_{4}\mathrm{C}_{4}=1$
+(ⅳ) 앞면이 나온 동전의 개수가 $4$인 경우의 수는 ${}_{4}\mathrm{C}_{4}=1$
+
 이때 두 주사위에서 나온 눈의 수가 $(1,\:4)$ 또는 $(2,\:2)$ 또는 $(4,\:1)$이어야 하므로 이 경우의 수는 $1\times 3=3$
 
 (ⅰ)~(ⅳ)에 의하여 조건을 만족시키는 경우의 수는 $4+12+8+3=27$
@@ -1096,9 +1320,7 @@ $(12+6)\times 9=162$
 
 <<<S>>>
 
-$6$개의 의자를 원형으로 배열하는 경우의 수는
-
-$(6-1)! =5! = 120$
+$6$개의 의자를 원형으로 배열하는 경우의 수는 $(6-1)! =5! = 120$
 
 이때 서로 이웃한 $2$개의 의자에 적혀 있는 수의 곱이 $12$가 되는 경우가 있도록 배열하는 경우는 다음과 같이 생각할 수 있다.
 
@@ -1107,6 +1329,7 @@ $(6-1)! =5! = 120$
 $2,\: 6$이 각각 적힌 두 의자를 $1$개로 생각하여 의자 $5$개를 원형으로 배열하는 경우의 수는 $(5-1)! =4! =24$
 
 이 각각에 대하여 $2,\: 6$이 각각 적힌 두 의자의 자리를 서로 바꾸는 경우의 수는 $2! =2$ 
+
 그러므로 $2,\: 6$이 각각 적힌 두 의자가 이웃하게 배열되는 경우의 수는 $24\times 2=48$
 
 (ⅱ) $3,\: 4$가 각각 적힌 두 의자가 이웃하게 배열되는 경우
@@ -1114,6 +1337,7 @@ $2,\: 6$이 각각 적힌 두 의자를 $1$개로 생각하여 의자 $5$개를 
 $3,\: 4$가 각각 적힌 두 의자를 $1$개로 생각하여 의자$5$개를 원형으로 배열하는 경우의 수는 $(5-1)! =4! =24$
 
 이 각각에 대하여 $3,\: 4$가 각각 적힌 두 의자의 자리를 서로 바꾸는 경우의 수는 $2! =2$ 
+
 그러므로 $3,\: 4$가 각각 적힌 두 의자가 이웃하게 배열되는 경우의 수는 $24\times 2=48$
 
 (ⅲ) $2,\: 6$가 각각 적힌 두 의자가 이웃하게 배열되는 경우
@@ -1270,7 +1494,7 @@ $\tan\theta =\dfrac{-e-e}{1+(-e)\times e}=\dfrac{-2e}{1-e^{2}}=\dfrac{2e}{e^{2}-
 
 $S_{1}=\dfrac{1}{2}\times 1^{2}\times\dfrac{\pi}{4}=\dfrac{\pi}{8}$
 
-$∠\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}=\dfrac{\pi}{4}$이므로 삼각형 $\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}$에서 사인법칙에 의하여
+$\angle\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}=\dfrac{\pi}{4}$이므로 삼각형 $\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}$에서 사인법칙에 의하여
 
 $\overline{\dfrac{\mathrm{O}_{2} \mathrm{A}_{2}}{\sin\dfrac{\pi}{6}}}=\overline{\dfrac{\mathrm{O}_{1} \mathrm{O}_{2}}{\sin\dfrac{\pi}{4}}}$에서 $\overline{\dfrac{\mathrm{O}_{2} \mathrm{A}_{2}}{\dfrac{1}{2}}}=\dfrac{1}{\sqrt{\dfrac{2}{2}}}$이고, 정리하면 $\overline{\mathrm{O_{2}A_{2}}}=\dfrac{1}{\sqrt{2}}$
 
@@ -1282,9 +1506,9 @@ $\displaystyle\lim_{n\to \infty}S_{n}=\dfrac{\dfrac{\pi}{8}}{1-\dfrac{1}{2}}=\df
 
 <<<P>>>
 
-그림과 같이 중심이 $\mathrm{O}_{1}$, 반지름의 길이가 $1$이고 중심각의 크기가 $\dfrac{5\pi}{12}$인 부채꼴 $\mathrm{O}_{1}\mathrm{A}_{1}\mathrm{O}_{2}$가 있다. 호 $\mathrm{A}_{1}\mathrm{O}_{2}$ 위에 점 $\mathrm{B}_{1}$을 $∠\mathrm{A}_{1}\mathrm{O}_{1}\mathrm{B}_{1}=\dfrac{\pi}{4}$가 되도록 잡고, 부채꼴 $\mathrm{O}_{1}\mathrm{A}_{1}\mathrm{B}_{1}$에 색칠하여 얻은 그림을 $R_{1}$이라 하자.
+그림과 같이 중심이 $\mathrm{O}_{1}$, 반지름의 길이가 $1$이고 중심각의 크기가 $\dfrac{5\pi}{12}$인 부채꼴 $\mathrm{O}_{1}\mathrm{A}_{1}\mathrm{O}_{2}$가 있다. 호 $\mathrm{A}_{1}\mathrm{O}_{2}$ 위에 점 $\mathrm{B}_{1}$을 $\angle\mathrm{A}_{1}\mathrm{O}_{1}\mathrm{B}_{1}=\dfrac{\pi}{4}$가 되도록 잡고, 부채꼴 $\mathrm{O}_{1}\mathrm{A}_{1}\mathrm{B}_{1}$에 색칠하여 얻은 그림을 $R_{1}$이라 하자.
 
-그림 $R_{1}$에서 점 $\mathrm{O}_{2}$를 지나고 선분 $\mathrm{O}_{1}\mathrm{A}_{1}$에 평행한 직선이 직선 $\mathrm{O}_{1}\mathrm{B}_{1}$과 만나는 점을 $\mathrm{A}_{2}$라 하자. 중심이 $\mathrm{O}_{2}$이고 중심각의 크기가 $\dfrac{5\pi}{12}$인 부채꼴 $\mathrm{O}_{2}\mathrm{A}_{2}\mathrm{O}_{3}$을 부채꼴 $\mathrm{O}_{1}\mathrm{A}_{1}\mathrm{B}_{1}$과 겹치지 않도록 그린다. 호 $\mathrm{A}_{2}\mathrm{O}_{3}$ 위에 점 $\mathrm{B}_{2}$를 $∠\mathrm{A}_{2}\mathrm{O}_{2}\mathrm{B}_{2}=\dfrac{\pi}{4}$가 되도록 잡고, 부채꼴 $\mathrm{O}_{2}\mathrm{A}_{2}\mathrm{B}_{2}$에 색칠하여 얻은 그림을 $R_{2}$라 하자.
+그림 $R_{1}$에서 점 $\mathrm{O}_{2}$를 지나고 선분 $\mathrm{O}_{1}\mathrm{A}_{1}$에 평행한 직선이 직선 $\mathrm{O}_{1}\mathrm{B}_{1}$과 만나는 점을 $\mathrm{A}_{2}$라 하자. 중심이 $\mathrm{O}_{2}$이고 중심각의 크기가 $\dfrac{5\pi}{12}$인 부채꼴 $\mathrm{O}_{2}\mathrm{A}_{2}\mathrm{O}_{3}$을 부채꼴 $\mathrm{O}_{1}\mathrm{A}_{1}\mathrm{B}_{1}$과 겹치지 않도록 그린다. 호 $\mathrm{A}_{2}\mathrm{O}_{3}$ 위에 점 $\mathrm{B}_{2}$를 $\angle\mathrm{A}_{2}\mathrm{O}_{2}\mathrm{B}_{2}=\dfrac{\pi}{4}$가 되도록 잡고, 부채꼴 $\mathrm{O}_{2}\mathrm{A}_{2}\mathrm{B}_{2}$에 색칠하여 얻은 그림을 $R_{2}$라 하자.
 
 이와 같은 과정을 계속하여 $n$번째 얻은 그림 $R_{n}$에 색칠되어 있는 부분의 넓이를 $S_{n}$이라 할 때, $\displaystyle\lim_{n\to \infty}S_{n}$의 값은? [3점]
 
@@ -1394,7 +1618,7 @@ $=1^{4}\times 16\times\dfrac{1}{8}=2$
 
 <<<P>>>
 
-그림과 같이 길이가 $2$인 선분 $\mathrm{AB}$를 지름으로 하는 반원의 호 $\mathrm{AB}$ 위에 점$\mathrm{P}$가 있다. 선분 $\mathrm{AB}$ 의 중점을 $\mathrm{O}$라 할 때, 점 $\mathrm{B}$를 지나고 선분 $\mathrm{AB}$에 수직인 직선이 직선 $\mathrm{OP}$와 만나는 점을 $\mathrm{Q}$라 하고, $\angle\mathrm{OQB}$의 이등분선이 직선 $\mathrm{AP}$와 만나는 점을 $\mathrm{R}$라 하자. $\angle\mathrm{OAP}=\theta$ 일 때, 삼각형 $\mathrm{OAP}$의 넓이를 $f(\theta)$,  삼각형 $\mathrm{PQR}$의 넓이를 $g(\theta)$라 하자. $\displaystyle\lim_{\theta\rightarrow 0+}\dfrac{g(\theta)}{\theta^{4}\times f(\theta)}$의 값은? (단, $0< \theta < \dfrac{\pi}{4}$) [4점]
+그림과 같이 길이가 $2$인 선분 $\mathrm{AB}$를 지름으로 하는 반원의 호 $\mathrm{AB}$ 위에 점$\mathrm{P}$가 있다. 선분 $\mathrm{AB}$ 의 중점을 $\mathrm{O}$라 할 때, 점 $\mathrm{B}$를 지나고 선분 $\mathrm{AB}$에 수직인 직선이 직선 $\mathrm{OP}$와 만나는 점을 $\mathrm{Q}$라 하고, $\angle\mathrm{OQB}$의 이등분선이 직선 $\mathrm{AP}$와 만나는 점을 $\mathrm{R}$라 하자. $\angle\mathrm{OAP}=\theta$ 일 때, 삼각형 $\mathrm{OAP}$의 넓이를 $f(\theta)$,  삼각형 $\mathrm{PQR}$의 넓이를 $g(\theta)$라 하자. $\displaystyle\lim_{\theta\rightarrow 0+}\dfrac{g(\theta)}{\theta^{4}\times f(\theta)}$의 값은? (단, $0< \theta < \dfrac{\pi}{4}$) [4점]
 
 [IMG]
 
@@ -1408,15 +1632,13 @@ $f'(x)=\dfrac{2t\ln x}{x}-2x=\dfrac{2t\ln x-2x^{2}}{x}$이고
 
 $f(x)$는 $x=k$에서 극대이므로 $2t\ln k-2k^{2}=0,\:t\ln k=k^{2}$
 
-이때 실수 $k$의 값을 $g(t)$라 했으므로 
+이때 실수 $k$의 값을 $g(t)$라 했으므로 
 
 $t\ln g(t)=\{g(t)\}^{2}$   ………㉠
 
 그런데  $g(\alpha)=e^{2}$이므로 ㉠에 $t=\alpha$를 대입하면 $\alpha\ln g(\alpha)=\{g(\alpha)\}^{2}$
 
 $2\alpha =e^{4},\:\alpha =\dfrac{e^{4}}{2}$
-
-
 
 또한, ㉠의 양변을 $t$에 대하여 미분하면
 
@@ -1446,11 +1668,11 @@ $t >2e$인 실수 $t$에 대하여 함수 $f(x)=t(\ln x)^{2}-x^{2}$ 이 $x=k$에
 
 곡선 $y=\ln(1+e^{2x}-e^{-2t})$과 직선 $y=x+t$가 만나는 두 점을 
 
-$\mathrm{P}(\alpha ,\:\alpha +\mathrm{t}),\:\mathrm{Q}(\beta ,\:\beta +\mathrm{t})(\alpha < \beta)$로 놓으면
+$\mathrm{P}(\alpha ,\:\alpha +\mathrm{t}),\:\mathrm{Q}(\beta ,\:\beta +\mathrm{t})(\alpha < \beta)$로 놓으면
 
 $f(t)=\sqrt{(\beta -\alpha)^{2}+(\beta -\alpha)^{2}}=\sqrt{2}(\beta -\alpha)$
 
-이때, $\alpha ,\:\beta$는 방정식 $\ln(1+e^{2x}-e^{-2t})=x+t$의 서로 다른 두 실근이므로
+이때, $\alpha ,\:\beta$는 방정식 $\ln(1+e^{2x}-e^{-2t})=x+t$의 서로 다른 두 실근이므로
 
 $1+e^{2x}-e^{-2t}=e^{x+t}$로 놓으면 $e^{2x}-e^{t}\times e^{x}+1-e^{-2t}=0$
 
