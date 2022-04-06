@@ -1758,11 +1758,17 @@ $$
 
 <<<S>>>출제의도 : 급수와 정적분의 관계를 이용하여 값을 구할 수 있는가?
 
+[[y3001]]
+
 $\displaystyle\lim _{n \rightarrow \infty} \displaystyle\sum_{k=1}^{n} \dfrac{k^{2}+2 k n}{k^{3}+3 k^{2} n+n^{3}}$
 
 $=\displaystyle\lim _{n \rightarrow \infty} \displaystyle\sum_{k=1}^{n}\left\{\dfrac{\left(\dfrac{k}{n}\right)^{2}+2 \times \dfrac{k}{n}}{\left(\dfrac{k}{n}\right)^{3}+3 \times\left(\dfrac{k}{n}\right)^{2}+1} \times \dfrac{1}{n}\right\}$
 
+[[y3002]]
+
 $=\displaystyle\int_{0}^{1} \dfrac{x^{2}+2 x}{x^{3}+3 x^{2}+1} d x$
+
+[[y3003]]
 
 $=\left[\dfrac{1}{3} \ln \left(x^{3}+3 x^{2}+1\right)\right]_{0}^{1}$
 
