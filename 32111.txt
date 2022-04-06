@@ -1632,6 +1632,8 @@ $=\dfrac{60}{131}$
 
 <<<S>>>출제의도 : 수열의 극한값을 구할 수 있는가?
 
+[[y1001]]
+
 $\displaystyle\lim _{n \rightarrow \infty} \dfrac{\dfrac{5}{n}+\dfrac{3}{n^{2}}}{\dfrac{1}{n}-\dfrac{2}{n^{3}}}$
 
 $=\displaystyle\lim _{n \rightarrow \infty} \dfrac{\left(\dfrac{5}{n}+\dfrac{3}{n^{2}}\right) \times n}{\left(\dfrac{1}{n}-\dfrac{2}{n^{3}}\right) \times n}$
@@ -1654,11 +1656,15 @@ $=\dfrac{5+0}{1-0}=5$
 
 <<<S>>>출제의도 : 합성함수의 미분법을 이용하여 미분계수를 구할 수 있는가?
 
+[[y2001]]
+
 $f\left(x^{3}+x\right)=e^{x}$ 의 양변을 $x$ 에 대하여 미분하면
 
 $f^{\prime}\left(x^{3}+x\right) \times\left(3 x^{2}+1\right)=e^{x} \cdots$ ㉠
 
 이다.
+
+[[y2002]]
 
 $x^{3}+x=2$ 에서
 
