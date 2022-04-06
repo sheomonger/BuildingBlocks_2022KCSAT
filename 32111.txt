@@ -1697,9 +1697,13 @@ $$
 
 <<<S>>>출제의도 : 등비급수의 합을 구할 수 있는가?
 
+[[c3002]]
+
 등비수열 $\left\{a_{n}\right\}$ 의 첫째항을 $a$, 공비를 $r$라 하면
 
 $a_{n}=a r^{n-1}$
+
+[[y1002]]
 
 이때
 $a_{2 n-1}-a_{2 n}=a r^{2 n-2}-a r^{2 n-1}$
@@ -1717,13 +1721,19 @@ $-1< r< 1$ 이고 $\dfrac{a(1-r)}{1-r^{2}}=3$ 이고 $r \neq 1$ 이므로
 
 $\dfrac{a}{1+r}=3 \cdots$ ㉠
 
+[[y1002]]
+
 또, $\displaystyle\sum_{n=1}^{\infty} a_{n}^{2}=\displaystyle\sum_{n=1}^{\infty} a^{2} r^{2 n-2}=6$ 이므로
 
 $\dfrac{a^{2}}{1-r^{2}}=\dfrac{a}{1-r} \times \dfrac{a}{1+r}=6$
 
+[[y1003]]
+
 따라서 ㉠에서 $\dfrac{a}{1-r} \times 3=6$이므로
 
 $\dfrac{a}{1-r}=2$
+
+[[y1004]]
 
 따라서
 $\displaystyle\sum_{n=1}^{\infty} a_{n}=\displaystyle\sum_{n=1}^{\infty} a r^{n-1}$
