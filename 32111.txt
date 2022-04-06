@@ -1332,7 +1332,7 @@ $=\dfrac{13}{15}$
 
 <<<S>>>출제의도 : 모평균을 추정하여 신뢰 구간을 구할 수 있는가?
 
-[[x0013]]
+[[x3003]]
 
 전기 자동차 $100$ 대를 임의추출하여 얻은 $1$ 회 충전 주행 거리의 표본평균이 $\overline{x_{1}}$ 일 때, 모평균 $m$ 에 대한 신뢰도 $95 \%$ 의 신뢰구간은
 
@@ -1340,7 +1340,7 @@ $\overline{x_{1}}-1.96 \times \dfrac{\sigma}{\sqrt{100}} \leq m \leq \overline{x
 
 $\overline{x_{1}}-1.96 \times \dfrac{\sigma}{10} \leq m \leq \overline{x_{1}}+1.96 \times \dfrac{\sigma}{10}$
 
-[[x0013]]
+[[x3003]]
 
 전기 자동차 $400$ 대를 임의추출하여 얻은 $1$ 회 충전 주행 거리의 표본평균이 $\overline{x_{2}}$ 일 때, 모평균 $m$ 에 대한 신뢰도 $99 \%$ 의 신뢰구간은
 
@@ -1348,7 +1348,7 @@ $\overline{x_{2}}-2.58 \times \dfrac{\sigma}{\sqrt{400}} \leq m \leq \overline{x
 
 $\overline{x_{2}}-2.58 \times \dfrac{\sigma}{20} \leq m \leq \overline{x_{2}}+2.58 \times \dfrac{\sigma}{20}$
 
-[[x0014]]
+[[x3004]]
 
 이때, $a=c$ 에서
 
@@ -1361,6 +1361,8 @@ $\overline{x_{1}}-\overline{x_{2}}=1.96 \times \dfrac{\sigma}{10}-2.58 \times \d
 $\quad=0.67 \times \dfrac{\sigma}{10}=1.34$
 
 $\sigma=\dfrac{1.34 \times 10}{0.67}=20$
+
+[[x3005]]
 
 따라서,
 
