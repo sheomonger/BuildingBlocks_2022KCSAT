@@ -2108,6 +2108,10 @@ $\dfrac{2}{9} \sqrt{3}$
 
 <<<S>>>출제의도 : 치환적분법과 부분적분법 을 활용하여 정적분의 값을 구할 수 있는가?
 
+[[y3009]]
+
+[[(가)의 $f(1)=1$, (나)의 항등식과 $f$와 $g$가 증가하는 역함수관계라는 사실을 이용해서 $x=1, 2, 4, 8$에서의 $f$와 $g$의 함숫값을 구합니다.]]
+
 조건 (가)에서 $f(1)=1$ 이므로 조건 (나)에 의하여
 $g(2)=2 f(1)=2$
 
@@ -2121,6 +2125,8 @@ $g(8)=2 f(4)=8$
 
 [IMG]
 
+[[정적분 $\displaystyle\int_{1}^{8} x f^{\prime}(x) d x$를 부분적분법을 적용해서 새로운 정적분을 구합니다.]]
+
 부분적분법에 의하여
 
 $\displaystyle\int_{1}^{8} x f^{\prime}(x) d x$
@@ -2131,8 +2137,11 @@ $=8 f(8)-f(1)-\displaystyle\int_{1}^{8} f(x) d x$
 
 $=8 \times 8-1-\displaystyle\int_{1}^{8} f(x) d x$
 
-$=63-\displaystyle\int_{1}^{8} f(x) d x \cdots$ 기
+$=63-\displaystyle\int_{1}^{8} f(x) d x \cdots$ ㉠
 
+[[정적분 구간 $[1,  8]$을 앞서 구한 $x$ 좌표에 의해 $[1,  2]$, $[2,  4]$와 $[4,  8]$로 나눕니다.]]
+
+이때
 $\displaystyle\int_{1}^{8} f(x) d x$
 
 $=\displaystyle\int_{1}^{2} f(x) d x+\displaystyle\int_{2}^{4} f(x) d x+\displaystyle\int_{4}^{8} f(x) d x$
@@ -2140,14 +2149,21 @@ $=\displaystyle\int_{1}^{2} f(x) d x+\displaystyle\int_{2}^{4} f(x) d x+\display
 $\cdots$ ㉡
 이고,
 
+[[정적분 $\displaystyle\int_{1}^{2} f(x) d x$을 (가)에 의해 알아냅니다.]]
+
 $\displaystyle\int_{1}^{2} f(x) d x=\dfrac{5}{4} \cdots$ ㉢
 이다.
 
-이때 두 함수 $y=f(x), y=g(x)$ 의 그래
-프의 대칭성에 의하여
+[[$\displaystyle\int_{2}^{4} f(x) d x$를 역함수의 $y=x$에 대한 대칭성을 이용해서 $\displaystyle\int_{2}^{4} g(y) d y$ 로 나타냅니다.]]
+
+이때 두 함수 $y=f(x), y=g(x)$ 의 그래프의 
+대칭성에 의하여
 $\displaystyle\int_{2}^{4} f(x) d x=4 \times 4-2 \times 2-\displaystyle\int_{2}^{4} g(y) d y$
 
 $=12-\displaystyle\int_{2}^{4} g(y) d y \cdots$ ㉣
+
+[[정적분 $\displaystyle\int_{2}^{4} g(y) d y$ 를 $y=2 t$로 치환적분하고 조건 (나)를 적용해서 계산합니다.]]
+
 이때 $y=2 t$ 로 놓으면 치환적분법에 의하여
 
 $\displaystyle\int_{2}^{4} g(y) d y=2 \displaystyle\int_{1}^{2} g(2 t) d t$
@@ -2162,10 +2178,14 @@ $=4 \displaystyle\int_{1}^{2} f(x) d x$
 
 $=4 \times \dfrac{5}{4}=5$
 
+[[정적분 $\displaystyle\int_{2}^{4} f(x) d x$을 앞서 구한 적분값을 이용해서 알아냅니다.]]
+
 ㉣에서
 $\displaystyle\int_{2}^{4} f(x) d x=12-\displaystyle\int_{2}^{4} g(y) d y$
 
 $=12-5=7 \cdots$ ㉤
+
+[[정적분 $\displaystyle\int_{4}^{8} f(x) d x$을 $\displaystyle\int_{2}^{4} f(x) d x$을 계산한 방법대로 알아냅니다.]]
 
 또, 두 함수 $y=f(x), y=g(x)$ 의 그래프 의 대칭성에 의하여
 $$
@@ -2190,6 +2210,8 @@ $=4 \times 7=28$
 
 ㉥에서 $\displaystyle\int_{4}^{8} f(x) d x=48-\displaystyle\int_{4}^{8} g(y) d y$ $=48-28=20 \cdots$ ㉦
 
+[[정적분 $\displaystyle\int_{1}^{8} f(x) d x$을 구하고, 이를 이용해서 $\displaystyle\int_{1}^{8} x f^{\prime}(x) d x$을 구합니다.]]
+
 ㉡, ㉢, ㉤, ㉦에서
 
 $\displaystyle\int_{1}^{8} f(x) d x$ $=\displaystyle\int_{1}^{2} f(x) d x+\displaystyle\int_{2}^{4} f(x) d x+\displaystyle\int_{4}^{8} f(x) d x$ $=\dfrac{5}{4}+7+20=\dfrac{113}{4}$
@@ -2204,6 +2226,11 @@ $=63-\dfrac{113}{4}=\dfrac{139}{4}$
 $p+q=4+139=143$
 
 [다른 풀이]
+
+[[y3009]]
+
+[[$\displaystyle\int_{1}^{8} f(x) d x$에서 $x=g(y)$로 치환해서 함수 $g$에 대한 정적분으로 바꿉니다.]]
+
 $\displaystyle\int_{1}^{8} x f^{\prime}(x) d x$ 에서 $x=g(y)$ 라 하면
 
 $x=1$ 일 때 $y=1, x=8$ 일 때 $y=8$ 이고,
@@ -2215,10 +2242,14 @@ $\displaystyle\int_{1}^{8} x f^{\prime}(x) d x=\displaystyle\int_{1}^{8} g(y) d 
 
 $=\displaystyle\int_{1}^{2} g(y) d y+\displaystyle\int_{2}^{4} g(y)+\displaystyle\int_{4}^{8} g(y) d y$
 
+[[정적분 $\displaystyle\int_{1}^{2} g(y) d y$을 역함수의 $y=x$에 대한 대칭성을 이용해서 구합니다.]]
+
 이때
 $\displaystyle\int_{1}^{2} g(y) d y=2 \times 2-1 \times 1-\displaystyle\int_{1}^{2} f(x) d x$
 
 $=3-\dfrac{5}{4}=\dfrac{7}{4}$
+
+[[정적분 $\displaystyle\int_{2}^{4} g(y) d y$을 역함수의 $y=x$에 대한 대칭성과 조건(나)를 이용해서 구합니다]]
 
 한편, $\displaystyle\int_{2}^{4} g(y) d y=\displaystyle\int_{2}^{4} 2 f\left(\dfrac{y}{2}\right) d y$ 에서
 
@@ -2229,6 +2260,8 @@ $\displaystyle\int_{2}^{4} g(y) d y=\displaystyle\int_{2}^{4} 2 f\left(\dfrac{y}
 $=\displaystyle\int_{1}^{2} 4 f(t) d t=4 \displaystyle\int_{1}^{2} f(t) d t$
 
 $=4 \times \dfrac{5}{4}=5$,
+
+[[정적분 $\displaystyle\int_{4}^{8} g(y) d y$을 역함수의 $y=x$에 대한 대칭성과 조건(나)를 이용해서 구합니다.]]
 
 또, $\displaystyle\int_{4}^{8} g(y) d y=\displaystyle\int_{4}^{8} 2 f\left(\dfrac{y}{2}\right) d y$ 에서
 
@@ -2241,6 +2274,8 @@ $=\displaystyle\int_{2}^{4} 4 f(t) d t=4 \displaystyle\int_{2}^{4} f(t) d t$
 $=4 \times\left\{4 \times 4-2 \times 2-\displaystyle\int_{2}^{4} g(y) d y\right\}$
 
 $=4(12-5)=28$
+
+[[구간별로 구한 정적분값을 더해서 정적분 $\displaystyle\int_{1}^{8} x f^{\prime}(x) d x=\displaystyle\int_{1}^{8} g(y) d y$을 구합니다.]]
 
 따라서
 $\displaystyle\int_{1}^{8} x f^{\prime}(x) d x=\displaystyle\int_{1}^{8} g(y) d y$
