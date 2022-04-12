@@ -1981,19 +1981,28 @@ $$
 
 <<<S>>>출제의도 : 도형의 성질을 이용하여 삼각함수의 극한값을 구할 수 있는가?
 
+[[y1005]]
+
+[[지름 $\mathrm{AB}$ 의 중점을 $\mathrm{M}$ 이라하고 $f(\theta)$를 부채꼴과 삼각형으로 분해해 봅니다.]]
 
 선분 $\mathrm{AB}$ 의 중점을 $\mathrm{M}$ 이라 하면
 
 $\angle \mathrm{AMQ}=2 \times \angle \mathrm{ABQ}=2 \times 2 \theta=4 \theta$
 이므로
 
+[[부채꼴 $\mathrm{AMQ}$의 넓이를 $\theta$의 식으로 구합니다.]]
+
 (부채꼴 $\mathrm{AMQ}$의 넓이)
 
 $=\dfrac{1}{2} \times 1^{2} \times 4 \theta=2 \theta$,
 
+[[삼각형 $\mathrm{MBQ}$ 의 넓이를 $\theta$의 식으로 구합니다.]]
+
 (삼각형 $\mathrm{MBQ}$ 의 넓이)
 
 $=\dfrac{1}{2} \times 1^{2} \times \sin (\pi-4 \theta)=\dfrac{1}{2} \sin 4 \theta$
+
+[[삼각형 $\mathrm{RAB}$ 의 넓이를 $\theta$의 식으로 구합니다.]]
 
 삼각형 $\mathrm{RAB}$ 에서 $\angle \mathrm{ARB}=\pi-3 \theta$ 이므로
 사인법칙에 의하여
@@ -2014,13 +2023,19 @@ $=\dfrac{1}{2} \times 2 \times \dfrac{2 \sin \theta}{\sin 3 \theta} \times \sin 
 $f(\theta)=2 \theta+\dfrac{1}{2} \sin 4 \theta-\dfrac{2 \sin \theta \sin 2 \theta}{\sin 3 \theta}$
 이므로
 
+[[$f(\theta)$를 구해서 $\displaystyle\lim _{\theta \rightarrow 0+} \dfrac{f(\theta)}{\theta}$를 계산합니다.]]
+
 $\displaystyle\lim _{\theta \rightarrow 0+} \dfrac{f(\theta)}{\theta}$
 
 $=\displaystyle\lim _{\theta \rightarrow 0+}\left(2+2 \times \dfrac{\sin 4 \theta}{4 \theta}-\dfrac{4 \times \dfrac{\sin \theta}{\theta} \times \dfrac{\sin 2 \theta}{2 \theta}}{3 \times \dfrac{\sin 3 \theta}{3 \theta}}\right)$
 
 $=2+2-\dfrac{4}{3}=\dfrac{8}{3} \cdots$ ㉠
 
+[[y1006]] 
+
 [IMG]
+
+[[평행선에 의한 닮음을 이용해서 정삼각형 $\mathrm{STU}$ 의 한 변의 길이를 $\theta$의 식으로 구합니다.]]
 
 정삼각형 $\mathrm{STU}$ 의 한 변의 길이를 $a$ 라 하면 삼각형 $\mathrm{TSB}$ 에서 사인법칙에 의하여
 
@@ -2042,6 +2057,8 @@ $\dfrac{2 \sin \theta \sin 2 \theta+\sqrt{3} \sin 3 \theta}{\sin 2 \theta \sin 3
 
 $a=\dfrac{4 \sin \theta}{\sin 3 \theta} \times \dfrac{\sin 2 \theta \sin 3 \theta}{2 \sin \theta \sin 2 \theta+\sqrt{3} \sin 3 \theta}$
 
+[[$g(\theta)$를 구해서 $\displaystyle\lim _{\theta \rightarrow 0+} \dfrac{g(\theta)}{\theta^{2}}$를 계산합니다.]] 
+
 이때
 $g(\theta)=\dfrac{\sqrt{3}}{4} a^{2}$이고
 
@@ -2060,6 +2077,11 @@ $\displaystyle\lim _{\theta \rightarrow 0+} \dfrac{g(\theta)}{\theta^{2}}=\dfrac
 $=\dfrac{\sqrt{3}}{4} \times\left(\dfrac{8}{3 \sqrt{3}}\right)^{2}$
 
 $=\dfrac{16 \sqrt{3}}{27} \cdots$ ㉢
+
+[[y1007]]
+
+[[앞에서 구한 두 극한값으로 $\dfrac{\displaystyle\lim _{\theta \rightarrow 0+} \dfrac{g(\theta)}{\theta^{2}}}{\displaystyle\lim _{\theta \rightarrow 0+} \dfrac{f(\theta)}{\theta}}$
+를 구합니다.]]
 
 따라서 ㉠, ㉡에서
 $\displaystyle\lim _{\theta \rightarrow 0+} \dfrac{g(\theta)}{\theta \times f(\theta)}$
