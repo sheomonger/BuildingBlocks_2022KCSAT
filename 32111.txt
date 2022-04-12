@@ -2723,6 +2723,8 @@ $=6 \sqrt{6}-8$
 
 <<<S>>>출제의도 : 좌표공간의 구의 방정식 및 도형의 위치관계를 이해하고 정사영의 넓이를 구할 수 있는가?
 
+[[z3006]]
+
 점 C에서 $x y$ 평면에 내린 수선의 발을 $\mathrm{C}^{\prime}$ 이라 하면 $\overline{\mathrm{CC}^{\prime}}=5$ 이므로 구 $S$ 는 점 $\mathrm{C}^{\prime}$ 에서 $x y$ 평면에 접한다.
 
 [IMG]
@@ -2739,6 +2741,8 @@ $\overline{\mathrm{OQ}_{1}}=\overline{\mathrm{OC}^{\prime}}+5=3+5=8$
 $\overline{\mathrm{R}_{1} \mathrm{C}^{\prime}}=5$ 이므로 삼각형 $\mathrm{OQ}_{1} \mathrm{R}_{1}$ 의 넓이는
 
 $\dfrac{1}{2} \times 8 \times 5=20$
+
+[[z3007]]
 
 이제 삼각형 $\mathrm{PQR}$ 의 넓이를 구해 보자.
 
@@ -2768,6 +2772,8 @@ $\overline{\mathrm{RG}}=\overline{\mathrm{RR}_{1}}-1=4$
 
 $\overline{\mathrm{PR}}=\sqrt{\mathrm{PG}^{2}}+\overline{\mathrm{RG}}^{2}=\sqrt{34+16}=5 \sqrt{2}$  $\cdots \cdots$ ㉢,
 
+[[z3008]]
+
 ㉠, ㉡, ㉢에 의하여 삼각형 $\quad \mathrm{PQR}$ 는 $\overline{\mathrm{PR}}=\overline{\mathrm{QR}}$ 인 이등변삼각형이다.
 
 [IMG]
@@ -2784,10 +2790,14 @@ $=\sqrt{30}$
 
 $\dfrac{1}{2} \times 4 \sqrt{5} \times \sqrt{30}=10 \sqrt{6}$
 
+[[z3009]]
+
 이때 삼각형 $\mathrm{PQR}$ 의 $x y$ 평면 위로의 정사영이 삼각형 $\mathrm{OQ}_{1} \mathrm{R}_{1}$이므로 
 
 두 평면 $\mathrm{PQR}$ 와 $\mathrm{OQ}_{1} \mathrm{R}_{1}$ 이 이루는 예각의 크기를 $\theta$ 라 하면
 $\cos \theta=\dfrac{20}{10 \sqrt{6}}=\dfrac{\sqrt{6}}{3}$
+
+[[z3010]]
 
 따라서 삼각헝 $\mathrm{OQ}_{1} \mathrm{R}_{1}$ 의 평면 $\mathrm{PQR}$ 위로의 정사영의 넓이는
 
