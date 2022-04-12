@@ -2454,6 +2454,10 @@ $=9$
 
 <<<S>>>출제의도 : 삼수선의 정리를 이용하여 주어진 삼각형의 넓이를 구할 수 있는가?
 
+[[z3004]]
+
+[[점 $\mathrm{M}$과 평면$\mathrm{EFG}$ 위의 직선 $\mathrm{EG}$에 삼수선의 정리를 적용합니다.]]
+
 그림과 같이 점 $\mathrm{M}$ 에서 선분 $\mathrm{EG}$ 에 내린 수선의 발을 $\mathrm{I}$, 선분 $\mathrm{EH}$ 에 내린 수선의 발을 $\mathrm{J}$ 라 하자.
 
 [IMG]
@@ -2467,6 +2471,8 @@ $=\dfrac{1}{2} \times 2 \sqrt{2}$
 
 $=\sqrt{2}$
 
+[[삼수선의 정리로 만들어진 직각삼각형에서 빗변의 길이, 즉 삼각형의 높이를 구합니다.]]
+
 한편, 직각삼각헝 $\mathrm{MJI}$ 에서 $\overline{\mathrm{MJ}} =4$이므로
 
 $\overline{\mathrm{MI}} =\sqrt{\overline{\mathrm{MJ}}^{2}+\overline{\mathrm{IJ}}^{2}}$
@@ -2474,6 +2480,8 @@ $\overline{\mathrm{MI}} =\sqrt{\overline{\mathrm{MJ}}^{2}+\overline{\mathrm{IJ}}
 $=\sqrt{16+2}$
 
 $=3 \sqrt{2}$
+
+[[z3005]]
 
 따라서 구하는 삼각형 $\mathrm{MEG}$ 의 넓이는
 
