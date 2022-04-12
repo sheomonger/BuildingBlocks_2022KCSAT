@@ -2592,7 +2592,13 @@ $a^{2}+p^{2}=\dfrac{27}{4}+\dfrac{1}{4}=7$
 
 <<<S>>>출제의도 : 평면벡터의 연산과 내적을 이용하여 조건을 만족시키는 벡터의 크기의 최댓값과 최솟값을 구할 수 있는가?
 
+[[z2003]]
+
+[[조건 (가)를 만족시키는 점 $\mathrm{P}$의 영역을 구합니다.]]
+
 조건 (가)에 의하여 점 $\mathrm{P}$ 는 평행사변형 $\mathrm{OACB}$ 의 둘레 또는 내부에 있는 점이다.
+
+[[조건 (나)를 벡터의 시점 $\mathrm{O}$에 대해 정리하고 주어진 길이와 각의 조건을 이용해 식을 정리합니다.]]
 
 조건 (나)에서
 $\overrightarrow{\mathrm{OP}} \cdot \overrightarrow{\mathrm{OB}}+\overrightarrow{\mathrm{BP}} \cdot \overrightarrow{\mathrm{BC}}$
@@ -2609,6 +2615,10 @@ $=\overrightarrow{\mathrm{OP}} \cdot \overrightarrow{\mathrm{OC}}-1=2$
 이므로
 
 $\overrightarrow{\mathrm{OP}} \cdot \overrightarrow{\mathrm{OC}}=3$
+
+[[z2004]]
+
+[[$|3 \overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OX}}|$가 최대가 되도록 하는 경우를 발견하고 그 최댓값을 구합니다.]]
 
 (i) 벡터 $3 \overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OX}}$ 의
 
@@ -2667,6 +2677,8 @@ $|3 \overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OX}}|=3|\overrightarrow
 
 $M=3 \sqrt{2}+\sqrt{2}=4 \sqrt{2}$
 
+[[$|3 \overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OX}}|$가 최소가 되도록 하는 경우를 발견하고 그 최솟값을 구합니다.]]
+
 (ii) 벡터 $3 \overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OX}}$ 의 크기는
 
 $\overrightarrow{\mathrm{OP}}$ 의 크기가 최소이고 $\overrightarrow{\mathrm{OX}}$ 가 $\overrightarrow{\mathrm{OP}}$ 와 같은 방향일 때 최소가 되고,
@@ -2685,6 +2697,8 @@ $|\overrightarrow{\mathrm{OP}}|=\dfrac{\sqrt{3}}{2}$
 $|3 \overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OX}}|=3|\overrightarrow{\mathrm{OP}}|-|\overrightarrow{\mathrm{OX}}|$
 
 이므로 $m=3 \times \dfrac{\sqrt{3}}{2}-\sqrt{2}=\dfrac{3 \sqrt{3}}{2}-\sqrt{2}$
+
+[[m0001]]
 
 (i), (ii)에 의하여
 
