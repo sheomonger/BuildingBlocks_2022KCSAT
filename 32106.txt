@@ -451,7 +451,7 @@ f(x)&(0\le x\le 1)
 
 <<<S>>>
 
-[[c2025]]
+[[삼각형 $\mathrm{ABC}$에서 코사인법칙을 적용하여 $\overline{\mathrm{BC}}$를 구합니다.]]
 
 삼각형 $\mathrm{ABD}$는 이등변삼각형이고 $\overline{\mathrm{AB}}=4$이므로 $\overline{\mathrm{BD}}=4$
 
@@ -465,11 +465,11 @@ $=4^{2}+5^{2}-2\times 4\times 5\times\dfrac{1}{8}$$=36$이므로
 
 $\overline{\mathrm{BC}}=6$
 
-[[c2018]]
+[[$\overline{\mathrm{AD}}$를 구합니다.]]
 
 $\overline{\mathrm{AD}}=2\overline{\mathrm{AB}}\cos\theta =2\times 4\times\dfrac{1}{8}= 1$이므로 삼각형 $\mathrm{BCD}$는 $\overline{\mathrm{DB}}=\overline{\mathrm{DC}}=4$인 이등변삼각형이다.
 
-[[c2024]]
+[[삼각형 $\mathrm{BED}$에서 사인법칙을 적용합니다.]]
 
 이등변삼각형 $\mathrm{BCD}$의 높이는 $\sqrt{4^{2}-3^{2}}=\sqrt{7}$이므로 $\sin(\angle\mathrm{DBC})=\dfrac{\sqrt{7}}{4}$
 
@@ -481,7 +481,7 @@ $\cos\theta =\dfrac{1}{8}$에서 $\sin\theta =\sqrt{1-\left(\dfrac{1}{8}\right)^
 
 [다른 풀이]
 
-[[c2018]]
+[[$\overline{\mathrm{AD}}$를 구합니다.]]
 
 삼각형 $\mathrm{ABD}$에서
 
@@ -495,7 +495,7 @@ $\overline{\mathrm{AH}}=\overline{\mathrm{AB}}\cos(\angle\mathrm{BAC})=4\times\d
 
 그러므로 $\overline{\mathrm{AD}}=1$
 
-[[c2025]]
+[[삼각형 $\mathrm{ABC}$에서 코사인법칙을 적용하여 $\overline{\mathrm{BC}}$를 구합니다.]]
 
 삼각형 $\mathrm{ABC}$에서
 
@@ -507,7 +507,7 @@ $=36$
 
 이므로 $\overline{\mathrm{BC}}=6$
 
-[[c2026]]
+[[점 $\mathrm{D}$에서 변 $\mathrm{BC}$에 수선을 내립니다.]]
 
 한편, 삼각형 $\mathrm{BCD}$는 $\overline{\mathrm{DB}}=\overline{\mathrm{DC}}=4$인 이등변삼각형이다.
 
@@ -521,7 +521,7 @@ $\overline{\mathrm{DH'}}=\sqrt{4^{2}-3^{2}}=\sqrt{7}$
 
 $\sin (\angle \mathrm{DEH'})=\sqrt{1-\left( \dfrac{1}{8} \right)^{2}}=\dfrac{3\sqrt{7}}{8}$
 
-[[c2027]]
+[[직각삼각형 $\mathrm{DBH}'$에서  $\overline{\mathrm{DE}}$를 구합니다.]]
 
 직각삼각형 $\mathrm{DBH}'$에서
 
