@@ -715,9 +715,9 @@ $t_{1} < t_{2}$일 때 $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)$이기
 따라서 $t_{1}\times t_{2}=\sin\theta\cos\theta =\dfrac{3}{8}$  (거짓)
 
 
-
-
 [다른 풀이]
+
+[[방정식 $\left(\sin\dfrac{\pi x}{2}-t\right)\left(\cos\dfrac{\pi x}{2}-t\right)=0$을 그래프들의 교점으로 해석합니다.]]
 
 방정식 $\left(\sin\dfrac{\pi x}{2}-t\right)\left(\cos\dfrac{\pi x}{2}-t\right)=0$에서 $\sin\dfrac{\pi x}{2}=t$ 또는 $\cos\dfrac{\pi x}{2}=t$
 
@@ -729,7 +729,7 @@ $t_{1} < t_{2}$일 때 $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)$이기
 
 ㄱ.
 
-[[c2010]]
+[[두 함수 $y=\sin\dfrac{\pi x}{2},\:y=\cos\dfrac{\pi x}{2}$의 대칭성을 이용합니다.]]
 
 $-1\le t< 0$이면 직선 $y=t$와 $\alpha(t),\:\beta(t)$는 다음 그림과 같다.
 
@@ -743,7 +743,7 @@ $-1\le t< 0$이면 직선 $y=t$와 $\alpha(t),\:\beta(t)$는 다음 그림과 �
 
 ㄴ.
 
-[[c2011]]
+[[$t$의 값이 변함에 따라 $\beta(t)-\alpha(t)$의 값을 조사합니다.]]
 
 실근 $\alpha(t),\:\beta(t)$는 집합 $\{x\vert  0\le x< 4\}$의 원소이므로 $\beta(0)=3,\:\alpha(0)=0$
 
@@ -785,7 +785,7 @@ $\{t \left| \beta(t)-\alpha(t)=3 \right. \}=\left\{t \left| 0\le t\le\dfrac{\sqr
 
 ㄷ.
 
-[[c2012]]
+[[$\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)=\theta$라 놓고 $t_{1}, t_{2}$를 삼각함수로 나타냅니다.]]
 
 $\alpha\left(t_{1}\right)=\alpha\left(t_{2}\right)$이기 위해서는 $0< t_{1}< \dfrac{\sqrt{2}}{2}< t_{2}$
 
