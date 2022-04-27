@@ -501,7 +501,7 @@ $\mathrm{A}(-t,-\sqrt{3} t)$ 이고,
 
 $\overline{\mathrm{AB}}=4 t$ 이다.
 
-[[m0041]]
+[[m0009]]
 
 이때, 함수 $f(x)$ 의 주기가 $a$ 이므로
 $\overline{\mathrm{AC}}=4 t=a$ 이고,
