@@ -1820,7 +1820,7 @@ $\alpha \beta=\dfrac{\ln t}{8}$
 
 그러므로 점 $\mathrm{P}$ 의 시각 $t$ 에서의 위치는 $x=\dfrac{1}{2} t^{2}, y=\dfrac{1}{2} t^{4}-\dfrac{\ln t}{8}$ 이다.
 
-[[y3006]]
+[[y2006]]
 
 이때 $\dfrac{d x}{d t}=t, \dfrac{d y}{d t}=2 t^{3}-\dfrac{1}{8 t}$
 
