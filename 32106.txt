@@ -1973,11 +1973,17 @@ $k^{2}=\dfrac{7}{4}$ 즉, $|\overrightarrow{\mathrm{ME}}| =\dfrac{\sqrt{7}}{2}$�
 
 <<<S>>>
 
+[[z1015]]
+
 점  $\mathrm{P}(4,\: k)$는 쌍곡선 $\dfrac{x^{2}}{a^{2}}-\dfrac{y^{2}}{b^{2}}=1$위의 점이므로 $\dfrac{16}{a^{2}}-\dfrac{k^{2}}{b^{2}}=1$ $\cdots$ ㉠
 
-점 $\mathrm{P}$에서 쌍곡선에 그은 접선의 방정식은 $\dfrac{4x}{a^{2}}-\dfrac{ky}{b^{2}}=1$
+점 $\mathrm{P}$에서 쌍곡선에 그은 접선의 방정식은 $\dfrac{4x}{a^{2}}-\dfrac{ky}{b^{2}}=1$이므로 
 
-이므로 두 점 $\mathrm{Q}$와 $\mathrm{R}$의 좌표는 각각 $\left .\mathrm{Q}\left(\dfrac{a^{2}}{4},\: 0\right)\right .$, $\mathrm{R}\left(0,\: -\dfrac{b^{2}}{k}\right)$
+[[m0028]]
+
+두 점 $\mathrm{Q}$와 $\mathrm{R}$의 좌표는 각각 $\left .\mathrm{Q}\left(\dfrac{a^{2}}{4},\: 0\right)\right .$, $\mathrm{R}\left(0,\: -\dfrac{b^{2}}{k}\right)$
+
+[[m0010]]
 
 따라서 삼각형 $\mathrm{QOR}$의 넓이는 
 
@@ -1988,6 +1994,8 @@ $A_{1}=\dfrac{1}{2}\times\dfrac{a^{2}}{4}\times\left | -\dfrac{b^{2}}{k}\right |
 $A_{1}:A_{2}=9:4$에서 $\dfrac{a^{2}b^{2}}{8k}:2k=9:4$
 
 $36k^{2}=a^{2}b^{2}$ $\cdots$ ㉡
+
+[[z1016]]
 
 ㉡을 ㉠에 대입하여 정리하면
 
