@@ -1513,6 +1513,8 @@ $243-32-32+1=180$
 
 <<<S>>>
 
+[[y1010]]
+
 $\displaystyle\lim_{n\to \infty}\dfrac{1}{\sqrt{n^{2}+n+1}-n}$$=\displaystyle\lim_{n\to \infty}\dfrac{\sqrt{n^{2}+n+1}+n}{n+1}$
 
 $=\displaystyle\lim_{n\to \infty}\dfrac{\sqrt{1 +\dfrac{1}{n}+\dfrac{1}{n^{2}}}+1}{1+\dfrac{1}{n}}$
