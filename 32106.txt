@@ -1591,11 +1591,19 @@ $\tan\theta =\dfrac{-e-e}{1+(-e)\times e}=\dfrac{-2e}{1-e^{2}}=\dfrac{2e}{e^{2}-
 
 <<<S>>>
 
+[[y1004]]
+
+[[등비급수의 첫째항인 부채꼴의 넓이를 구합니다.]]
+
 $S_{1}=\dfrac{1}{2}\times 1^{2}\times\dfrac{\pi}{4}=\dfrac{\pi}{8}$
 
-$\angle\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}=\dfrac{\pi}{4}$이므로 삼각형 $\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}$에서 사인법칙에 의하여
+[[사인법칙으로 닮음비를 구해서 등비급수의 공비를 구합니다.]]
 
-$\overline{\dfrac{\mathrm{O}_{2} \mathrm{A}_{2}}{\sin\dfrac{\pi}{6}}}=\overline{\dfrac{\mathrm{O}_{1} \mathrm{O}_{2}}{\sin\dfrac{\pi}{4}}}$에서 $\overline{\dfrac{\mathrm{O}_{2} \mathrm{A}_{2}}{\dfrac{1}{2}}}=\dfrac{1}{\sqrt{\dfrac{2}{2}}}$이고, 정리하면 $\overline{\mathrm{O_{2}A_{2}}}=\dfrac{1}{\sqrt{2}}$
+$\angle\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}=\dfrac{\pi}{4}$이므로 
+삼각형 $\mathrm{O}_{1}\mathrm{A}_{2}\mathrm{O}_{2}$에서 사인법칙에 의하여
+
+$\overline{\dfrac{\mathrm{O}_{2} \mathrm{A}_{2}}{\sin\dfrac{\pi}{6}}}=\overline{\dfrac{\mathrm{O}_{1} \mathrm{O}_{2}}{\sin\dfrac{\pi}{4}}}$에서 $\overline{\dfrac{\mathrm{O}_{2} \mathrm{A}_{2}}{\dfrac{1}{2}}}=\dfrac{1}{\sqrt{\dfrac{2}{2}}}$이고, 
+정리하면 $\overline{\mathrm{O_{2}A_{2}}}=\dfrac{1}{\sqrt{2}}$
 
 따라서 닮음비는 $1 :\dfrac{1}{\sqrt{2}}$이므로 넓이의 비는 $1 :\dfrac{1}{2}$이다.
 
