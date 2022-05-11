@@ -1905,6 +1905,10 @@ $|\overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OA}}| = |\overrightarrow{
 
 <<<S>>>
 
+[[z2008]]
+
+[[합벡터의 크기를 직각삼각형의 빗변의 길이로 구합니다.]]
+
 정육각형에서 직선 $\mathrm{EF}$와 직선 $\mathrm{CD}$의 교점을 $\mathrm{G}$라고 하자.
 
 $\overrightarrow{\mathrm{BC}}=\overrightarrow{\mathrm{EG}}$이므로 $|\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{BC}}| = |\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{EG}}| = |\overrightarrow{\mathrm{AG}}|$
@@ -1916,6 +1920,10 @@ $\overrightarrow{\mathrm{BC}}=\overrightarrow{\mathrm{EG}}$이므로 $|\overrigh
 $|\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{BC}}| = |\overrightarrow{\mathrm{AG}}| =\overline{\mathrm{AG}}=\sqrt{(\sqrt{3})^{2}+2^{2}}=\sqrt{7}$
 
 [다른 풀이]
+
+[[z2008]]
+
+[[합벡터의 크기를 코사인법칙으로 구합니다.]]
 
 두 선분  $\mathrm{AD}$와 $\mathrm{BE}$의 교점을 $\mathrm{O}$라 하고 선분 $\mathrm{OE}$의 중점을 $\mathrm{M}$이라 하면 $\overrightarrow{\mathrm{BC}}=\overrightarrow{\mathrm{AO}}$이므로
 
@@ -1934,6 +1942,10 @@ $=\dfrac{7}{4}$
 $\overline{\mathrm{AM}}=\dfrac{\sqrt{7}}{2}$이므로 ㉠에서 $|\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{BC}}| =2\overline{\mathrm{AM}}=2\times\dfrac{\sqrt{7}}{2}=\sqrt{7}$
 
 [다른 풀이]
+
+[[z2008]]
+
+[[합벡터의 크기를 중선정리로 구합니다.]]
 
 $\overrightarrow{\mathrm{BC}}=\overrightarrow{\mathrm{FE}}$이므로 $\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{BC}}=\overrightarrow{\mathrm{AE}}+\overrightarrow{\mathrm{FE}}= 2\overrightarrow{\mathrm{ME}}$
 
