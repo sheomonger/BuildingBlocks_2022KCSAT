@@ -1531,7 +1531,13 @@ $\displaystyle\lim_{n\to \infty}$$\dfrac{1}{\sqrt{n^{2}+n-1}-n}$의 값은? [2�
 
 <<<S>>>
 
-$\dfrac{dx}{dt}= e^{t}-\sin t ,\:\dfrac{dy}{dt}=\cos t$이므로 $\dfrac{dy}{dx}=\dfrac{\dfrac{dy}{dt}}{\dfrac{dx}{dt}}=\dfrac{\cos t}{e^{t}-\sin t}$
+[[y2006]]
+
+$\dfrac{dx}{dt}= e^{t}-\sin t ,\:\dfrac{dy}{dt}=\cos t$이므로 
+
+[[y2005]]
+
+$\dfrac{dy}{dx}=\dfrac{\dfrac{dy}{dt}}{\dfrac{dx}{dt}}=\dfrac{\cos t}{e^{t}-\sin t}$
 
 따라서 $t=0$일 때 $\dfrac{dy}{dx}$의 값은 $\dfrac{1}{1-0}=1$
 
