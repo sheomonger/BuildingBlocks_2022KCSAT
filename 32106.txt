@@ -1695,7 +1695,13 @@ $f(x)=e^{x},\:g(x)=k\sin x$
 
 <<<S>>>
 
+[[y1011]]
+
+[[이등변삼각형의 넓이 $f(\theta)$를 구합니다.]]
+
 $f(\theta)=\dfrac{1}{2}\times 1\times 1\times\sin(\pi -2\theta)=\dfrac{\sin 2\theta}{2}$
+
+[[점$\mathrm{P}$에서 선분 $\mathrm{BQ}$에 내린 수선에 의한 직각삼각형의 내심 $\mathrm{R}$을 이용해 $g(\theta)$를 구합니다.]]
 
 또한, $\angle\mathrm{APO}=\angle\mathrm{QPR}=\theta$이므로
 
@@ -1726,6 +1732,8 @@ $g(\theta)=\dfrac{1}{2}\times\dfrac{1-\cos 2\theta}{\cos 2\theta}\times\dfrac{(1
 $=\dfrac{1}{2}\times\dfrac{(1-\cos 2\theta)^{2}\sin 2\theta}{\cos 2\theta(1+\sin 2\theta +\cos 2\theta)}$
 
 $=\dfrac{1}{2}\times\dfrac{\sin^{4}2\theta\times\sin 2\theta}{\cos 2\theta(1+\sin 2\theta +\cos 2\theta)(1+\cos 2\theta)^{2}}$
+
+[[y1007]]
 
 따라서
 
