@@ -1881,6 +1881,8 @@ $(k+3,\: 3k-1)=m(1,\: 1)$에서 $k+3=m$, $3k-1=m$
 
 <<<S>>>
 
+[[z2005]]
+
 $|\overrightarrow{\mathrm{OP}}-\overrightarrow{\mathrm{OA}}| = |\overrightarrow{\mathrm{AB}}|$에서 $|\overrightarrow{\mathrm{AP}}| = |\overrightarrow{\mathrm{AB}}|$
 
 이때 $\overline{\mathrm{AB}}=\sqrt{(-3-1)^{2}+(5-2)^{2}}=5$이므로
