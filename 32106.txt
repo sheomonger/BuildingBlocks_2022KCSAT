@@ -2166,15 +2166,23 @@ $k=4\sqrt{5}$이므로 $k^{2}= 80$
 
 <<<S>>>
 
+[[z2009]]
+
+[[(가)에서 $\overline{\mathrm{PQ}}\bot\overline{\mathrm{AB}}$와 $\overline{\mathrm{PQ}}\bot\overline{\mathrm{AD}}$인 경우로 분류합니다.]]
+
 조건 (가)에서 $\overrightarrow{\mathrm{PQ}}\cdot\overrightarrow{\mathrm{AB}} = 0$ 또는 $\overrightarrow{\mathrm{PQ}}\cdot\overrightarrow{\mathrm{AD}} = 0$이므로 다음과 같이 두 가지의 경우로 나누어 생각할 수 있다. 
+
+[[$\overline{\mathrm{PQ}}\bot\overline{\mathrm{AB}}$일 때, (나)와 (다)로 점 $\mathrm{P}$와 $\mathrm{Q}$의 위치를 알아냅니다.]]
 
 (ⅰ) $\overrightarrow{\mathrm{PQ}}\cdot\overrightarrow{\mathrm{AB}} = 0$, 즉 $\overline{\mathrm{PQ}}\bot\overline{\mathrm{AB}}$인 경우
 
 두 조건 (나)와 (다)에서 $\overrightarrow{\mathrm{OB}}\cdot\overrightarrow{\mathrm{OP}}\ge 0$, $\overrightarrow{\mathrm{OB}}\cdot\overrightarrow{\mathrm{OQ}}\le 0$이므로
 
-점 $\mathrm{P}$는 선분 $\mathrm{AB}$위의 점이고 점 $\mathrm{Q}$는 선분 $\mathrm{CD}$위의 점이다.
+점 $\mathrm{P}$는 선분 $\mathrm{AB}$위의 점이고 점 $\mathrm{Q}$는 선분 $\mathrm{CD}$ 위의 점이다.
 
 [IMG]
+
+[[점 $\mathrm{P}$와 $\mathrm{Q}$를 좌표로 나타내고 연립부등식으로 부터 두 점의 위치를 알아냅니다.]] 
 
 점 $\mathrm{P}$의 좌표를 $\mathrm{P}=(a ,\:  2-a)$ ($0\le a\le 2$)라 하면 점 $\mathrm{Q}$의 좌표는 $\mathrm{Q}(a-2 ,\:  -a)$
 
@@ -2204,6 +2212,8 @@ $a\ge 0$ $\cdots\cdots$ ㉣
 
 $1\le a\le 2$ $\cdots\cdots$ ㉤
 
+[[점 $\mathrm{P}$와 $\mathrm{Q}$의 위치로 부터 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$의 범위를 알아냅니다.]]
+
 한편 점 $\mathrm{R}(4,\: 4)$에 대하여
 
 $\overrightarrow{\mathrm{RP}}$$=\overrightarrow{\mathrm{OP}} -\overrightarrow{\mathrm{OR}}$
@@ -2230,6 +2240,8 @@ $= 2(a-1)^{2}+ 30$
 
 $30\le\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}\le 32$
 
+[[$\overline{\mathrm{PQ}}\bot\overline{\mathrm{AD}}$일 때, (나)와 (다)로 점 $\mathrm{P}$와 $\mathrm{Q}$의 위치를 알아냅니다.]]
+
 (ⅱ) $\overrightarrow{\mathrm{PQ}}\cdot\overrightarrow{\mathrm{AD}} = 0$, 즉 $\overline{\mathrm{PQ}}\bot\overline{\mathrm{AD}}$인 경우 두 조건 (나)와 (다)에서 
 
 $\overrightarrow{\mathrm{OB}}\cdot\overrightarrow{\mathrm{OP}}\ge 0$, $\overrightarrow{\mathrm{OB}}\cdot\overrightarrow{\mathrm{OQ}}\le 0$
@@ -2237,6 +2249,8 @@ $\overrightarrow{\mathrm{OB}}\cdot\overrightarrow{\mathrm{OP}}\ge 0$, $\overrigh
 이므로 점 $\mathrm{P}$는 선분 $\mathrm{BC}$위의 점이고 점 $\mathrm{Q}$는 선분 $\mathrm{AD}$위의 점이다.
 
 [IMG]
+
+[[점 $\mathrm{P}$와 $\mathrm{Q}$를 좌표로 나타내고 연립부등식으로 부터 두 점의 위치를 알아냅니다.]] 
 
 점 $\mathrm{P}$의 좌표를 $\mathrm{P}(a ,\:  a+2)$ ($-2\le a\le 0$)라 하면 점 $\mathrm{Q}$의 좌표는 $\mathrm{Q}(a+2 ,\:  a)$
 
@@ -2266,6 +2280,8 @@ $a\le 0$ $\cdots\cdots$ ㉨
 
 $-1\le a\le 0$ $\cdots\cdots$ ㉩
 
+[[점 $\mathrm{P}$와 $\mathrm{Q}$의 위치로 부터 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$의 범위를 알아냅니다.]]
+
 한편 점 $\mathrm{R}(4,\: 4)$에 대하여
 
 $\overrightarrow{\mathrm{RP}}$$=\overrightarrow{\mathrm{OP}} -\overrightarrow{\mathrm{OR}}$
@@ -2292,6 +2308,8 @@ $= 2(a-3)^{2}-2$
 
 $16\le\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}\le 30$
 
+[[두 가지 경우를 종합해서 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$의 범위를 알아냅니다.]]
+
 (ⅰ), (ⅱ)에서
 
 $16\le\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}\le 32$
@@ -2302,11 +2320,17 @@ $M + m = 48$
 
 [다른 풀이]
 
+[[z2009]]
+
+[[조건으로 부터 두 점 $\mathrm{P}$, $\mathrm{Q}$의 위치를 알아냅니다.]]
+
 위의 풀이에서 두 점 $\mathrm{P}$, $\mathrm{Q}$가 지나는 영역은 다음 그림의 굵은 선분 위이다.
 
 [IMG]
 
 [IMG]
+
+[[선분 $\mathrm{PQ}$의 중점에 대해 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$을 나타냅니다.]]
 
 선분 $\mathrm{PQ}$의 중점을 $\mathrm{N}$이라 하면 조건 (가)에 의하여
 
@@ -2328,7 +2352,9 @@ $=\overline{\mathrm{RN}}^{2}+0 -\overline{\mathrm{NP}}^{2}$
 
 $\overline{\mathrm{NP}} =\dfrac{1}{2}\overline{\mathrm{PQ}} =\sqrt{2}$
 
-따라서 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$$=\overline{\mathrm{RN}}^{2}-2$이므로 
+따라서 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$$=\overline{\mathrm{RN}}^{2}-2$이다.
+
+[[선분 $\mathrm{PQ}$의 중점에 대한 식으로 부터 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$의 범위를 알아냅니다.]]
 
 $\overrightarrow{\mathrm{RP}}\cdot\overrightarrow{\mathrm{RQ}}$의 최댓값과 최솟값은 $\overline{\mathrm{RN}}$의 최댓값과 최솟값에 의하여 결정된다.
 
