@@ -2065,6 +2065,8 @@ $a^{2}+2a-2=0$
 
 <<<S>>>
 
+[[z1010]]
+
 직선 $y = 2x - 4$가 포물선 $y^{2}= 8x$와 만나는 점 중 $\mathrm{A}$가 아닌 점을 $\mathrm{E}$, $x$축과 만나는 점을 $\mathrm{F}$라 하고, 점 $\mathrm{E}$에서 직선 $x = -2$에 내린 수선의 발을 $\mathrm{H}$라 하자.
 
 또 두 점 $\mathrm{A}$, $\mathrm{B}$에서 직선 $\mathrm{HE}$에 내린 수선의 발을 각각 $\mathrm{I}$, $\mathrm{J}$라 하자.
@@ -2091,9 +2093,15 @@ $q=\dfrac{4\sqrt{5}}{\sqrt{5}+1}=\sqrt{5}(\sqrt{5}-1)=5-\sqrt{5}$이므로
 
 $\overline{\mathrm{EI}} = p- q = 2\sqrt{5}$
 
+[[z1018]]
+
 한편 포물선 $(y-2a)^{2}= 8(x- a)$는 포물선 $y^{2}= 8x$를 $x$축의 방향으로 $a$만큼 $y$축의 방향으로 $2a$만큼 평행이동한 것이므로 두 점 $\mathrm{A}$, $\mathrm{B}$는 각각 두 점 $\mathrm{E}$, $\mathrm{A}$를 $x$축의 방향으로 $a$만큼 $y$축의 방향으로 $2a$만큼 평행이동한 것이다. 
 
-따라서 $\overline{\mathrm{AB}} =\overline{\mathrm{AE}}$이므로 포물선의 정의에 의하여 
+따라서 $\overline{\mathrm{AB}} =\overline{\mathrm{AE}}$이다. 
+
+[[z1019]]
+
+포물선의 정의에 의하여 
 
 $\overline{\mathrm{AC}}+\overline{\mathrm{BD}}-\overline{\mathrm{AB}}$$=\overline{\mathrm{AC}} +\overline{\mathrm{BD}} -\overline{\mathrm{AE}}$
 
@@ -2109,20 +2117,28 @@ $=\overline{\mathrm{EJ}}$$= 2\times\overline{\mathrm{EI}}$$= 2\times 2\sqrt{5}= 
 
 [다른 풀이]
 
+[[z1007]]
+
 직선 $y = 2x - 4$가 포물선 $y^{2}= 8x$와 만나는 점 중 $\mathrm{A}$가 아닌 점을 $\mathrm{E}$, $x$축과 만나는 점을 $\mathrm{F}$라 하고, 점 $\mathrm{E}$에서 직선 $x = -2$에 내린 수선의 발을 $\mathrm{H}$라 하자.
 
 또 두 점 $\mathrm{A}$, $\mathrm{B}$에서 직선 $\mathrm{HE}$에 내린 수선의 발을 각각 $\mathrm{I}$, $\mathrm{J}$라 하자.
 
 점  $\mathrm{F}$의 좌표는 $(2,\:0)$이므로 포물선 $y^{2}= 8x$의 초점과 일치한다. 
 
+[[d3014]]
+
 이때 연립방정식 $\begin{cases}
 y^{2}=8x\\
 y=2x-4
 \end{cases}$의 해는 $y^{2}= 4(y+ 4)$ 즉, $y^{2}- 4y - 16 = 0$에서 $y=2\pm 2\sqrt{5}$
 
-$y=2+2\sqrt{5}$이면 $x=3+\sqrt{5}$, $y=2-2\sqrt{5}$이면 $x=3-\sqrt{5}$이므로 두 점 $\mathrm{A}$와 $\mathrm{E}$의 좌표는 각각 $\mathrm{A}(3+\sqrt{5},\:2+2\sqrt{5})$, $\mathrm{B}(3-\sqrt{5},\:2-2\sqrt{5})$이다.
+$y=2+2\sqrt{5}$이면 $x=3+\sqrt{5}$, $y=2-2\sqrt{5}$이면 $x=3-\sqrt{5}$이므로 두 점 $\mathrm{A}$와 $\mathrm{E}$의 좌표는 각각 $\mathrm{A}(3+\sqrt{5},\:2+2\sqrt{5})$, $\mathrm{E}(3-\sqrt{5},\:2-2\sqrt{5})$이다.
+
+[[z1018]]
 
 포물선 $(y-2a)^{2}= 8(x- a)$은 포물선 $y^{2}= 8x$를 $x$축의 방향으로 $a$만큼 $y$축의 방향으로 $2a$만큼 평행이동한 것이므로 $\overline{\mathrm{AB}} =\overline{\mathrm{AE}}$
+
+[[z1019]]
 
 따라서 포물선의 정의에 의해 
 
