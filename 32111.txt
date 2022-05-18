@@ -1256,8 +1256,6 @@ $\left(c^{\prime}+1\right)+\left(d^{\prime}+1\right)+\left(e^{\prime}+1\right)=7
 
 $c^{\prime}+d^{\prime}+e^{\prime}=4$
 
-[[x1006]]
-
 이를 만족시키는 모든 순서쌍 $\left(c^{\prime}, d^{\prime}, e^{\prime}\right)$
 의 개수는
 
