@@ -1979,7 +1979,7 @@ $k^{2}=\dfrac{7}{4}$ 즉, $|\overrightarrow{\mathrm{ME}}| =\dfrac{\sqrt{7}}{2}$�
 
 점 $\mathrm{P}$에서 쌍곡선에 그은 접선의 방정식은 $\dfrac{4x}{a^{2}}-\dfrac{ky}{b^{2}}=1$이므로 
 
-[[m0028]]
+[[m0002]]
 
 두 점 $\mathrm{Q}$와 $\mathrm{R}$의 좌표는 각각 $\left .\mathrm{Q}\left(\dfrac{a^{2}}{4},\: 0\right)\right .$, $\mathrm{R}\left(0,\: -\dfrac{b^{2}}{k}\right)$
 
